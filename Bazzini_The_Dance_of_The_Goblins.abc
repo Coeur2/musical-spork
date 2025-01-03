@@ -1,0 +1,2676 @@
+%abc-2.1
+%%song-title       The Dance of the Goblins
+%%song-composer    Antonio Bazzini
+%%song-duration    7:57
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: The Dance of the Goblins (7:57) - Lute of Ages
+%%part-name Lute of Ages
+C: Antonio Bazzini
+M: 2/4
+Q: 192
+K: C maj
+
++ff+ [B,3B3b3] z [B,3B3b3] z |
++f+ [B,-B-b] [B,B] [B,-B-b] [B,B] [B,-B-b] [B,B] [B,-B-b] [B,B] |
++ff+ [B,3B3] z [B,3B3] z |
++f+ [B,-B] B, [B,-B] B, [B,-B] B, [B,-B] B, |
++p+ [E,E] z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z B, z [B^d^f] z |
+E z [Beg] z [Beg] z [Beg] z |
+% Bar 10 (0:09)
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+[D-db] D- +mp+ [D-^c^a] D- [D-=c=a] D +mf+ [GBg] z |
+G,2 [B2d2g2] [B2d2g2] [B2d2g2] |
+G,2 [B2d2g2] G,2 [c2d2^f2] |
+G,2 [d2g2b2] [d2g2b2] [d2g2b2] |
+G2 [d2g2b2] D2 [d2^f2c'2] |
+G,2 [B2d2g2] [B2d2g2] [B2d2g2] |
+G,2 [B2d2g2] G,2 [c2d2^f2] |
+G,2 [B2g2] [G,2G2B2d2] [B2e2] |
+% Bar 20 (0:19)
+[^F,2^F2d2^f2] [d2=f2] [^c2f2] [B,Bd] z |
+B,2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+B,2 [B2^d2^f2] B,2 [B2d2f2] |
+B,2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+B,2 [B2^d2^f2] z4 |
+e2 ^d2 [c2c'2] [B2b2] |
+% Bar 30 (0:29)
+e2 ^d2 [c2c'2] [B2b2] |
+e2 ^d2 [B,2B2b2] [C2c2c'2] |
+[B,2B2b2] [A,2A2a2] [G,2G2g2] [^F,2^F2^f2] |
+[E,2E2e2] [B2e2g2] [B2e2g2] [B2e2g2] |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z3 [B^d^f] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [E-Beg] E [Beg] z |
+% Bar 40 (0:39)
+E2 [B2e2g2] E2 [B2e2g2] |
+E,2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+E,2 [c2e2a2] E2 [c2e2] |
+E,2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+E,2 [B2e2g2] E2 [B2e2g2] |
+E,2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+E,2 [c2e2a2] E2 [c2e2] |
+E,2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+E,2 [B2e2g2] E2 [B2e2g2] |
+[^D,2-^D2-] [D,2D2B2^f2a2] [E,2E2B2-e2-g2-] [B2e2g2] |
+% Bar 50 (0:49)
+[^D,2-^D2-] [D,2D2B2^f2a2] [E,2E2B2-e2-g2-] [B2e2g2] |
+[^D,2^D2] [B2^f2a2] [B2f2a2] [B2f2a2] |
+[E,2E2] [B2e2g2] [B2e2g2] [B2e2g2b2] |
+A,2 [c2e2^f2] [c2e2f2] [c2e2f2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [B2^d2^f2] ^D2 [B2f2a2] |
+E2 [B2e2g2] G2 [e2b2] |
+A2 [e2c'2] A,2 [c2e2a2] |
+B,2 [B2e2g2] E2- [E2c2e2g2] |
+B,2 [B2e2g2] B,2 [B,2^D2^F2B2^d2^f2] |
+% Bar 60 (0:59)
++f+ [E4G4B4e4g4] +ff+ [E3e3] z |
++f+ [Ee] z [Ee] z [Ee] z [Ee] z |
+[E4e4] [E,4E4e4] |
+[E,Ee] z [E,Ee] z [E,Ee] z [E,Ee] z |
+[C,2C2G2-c2-e2-] [G2c2e2] [G2c2e2] [c2e2] |
+[E2G2c2e2] [G2c2e2] [C2G2c2e2] [G2c2e2] |
+[F,2F2A2d2] z2 [F2A2d2a2] [F2A2d2] |
+[F2A2d2f2] [F2A2d2] [F2A2d2] [F2A2d2] |
+[G,2b2] z2 [D2G2B2f2] [G2B2f2] |
+[B,2G2B2f2] [G2B2f2] [G,2G2B2f2] [G2B2f2] |
+% Bar 70 (1:09)
+[C,2C2G2-c2-e2-] [G2c2e2] c2 z2 |
+G2 [e2c'2] [E2g2] g2 |
+[C,2C2] z2 [G2c2e2] [G2c2e2] |
+[E2G2c2e2] [G2c2e2] [C2G2c2e2] [G2c2e2] |
+[F,2F2A2d2] z2 [F2A2d2a2] [F2A2d2] |
+[F2A2d2f2] [F2A2d2] [F2A2d2] [F2A2d2] |
+[G,2b2] z2 [D2G2B2f2] [G2B2f2] |
+[B,2G2B2f2] [G2B2f2] [G,2G2B2f2] [G2B2f2] |
+[C4G4c4e4] G2 c2 |
+C2- [C2e2g2] [e2c'2] z2 |
+% Bar 80 (1:19)
+[C,2C2G2-c2-e2-] [G2c2e2] [G2c2e2] [c2e2] |
+[E2G2c2e2] [G2c2e2] [C2G2c2e2] [G2c2e2] |
+[F,2F2A2d2] z2 [F2A2d2a2] [F2A2d2] |
+[F2A2d2f2] [F2A2d2] [F2A2d2] [F2A2d2] |
+[G,2b2] z2 [D2G2B2f2] [G2B2f2] |
+[B,2G2B2f2] [G2B2f2] [G,2G2B2f2] [G2B2f2] |
+[C,2C2G2-c2-e2-] [G2c2e2] c2 z2 |
+G2 [e2c'2] [E2g2] g2 |
+[C,2C2] z2 [G2c2e2] [G2c2e2] |
+[E2G2c2e2] [G2c2e2] [C2G2c2e2] [G2c2e2] |
+% Bar 90 (1:29)
+[F,2F2A2d2] z2 [F2A2d2a2] [F2A2d2] |
+[F2A2d2f2] [F2A2d2] [F2A2d2] [F2A2d2] |
+[G,2b2] z2 [D2G2B2f2] [G2B2f2] |
+[B,2G2B2f2] [G2B2f2] [G,2G2B2f2] [G2B2f2] |
+[C4G4c4e4] G2 c2 |
+C2- [C2e2g2] [e2c'2] z2 |
+[G,2d2-b2-] [G2d2b2] [G,2^c2g2^a2] z2 |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[B,2d2b2] z2 [G2B2d2b2] z2 |
+% Bar 100 (1:39)
+A,2 z2 [C2^F2a2] z2 |
+B,2 z2 [E2G2B2g2] z2 |
+B,2 z2 [^D2A2B2^f2] z2 |
+[E2G2B2e2] [E2G2B2g2] [E2G2B2e2] z2 |
+[G,2d2-b2-] [G2d2b2] [G,2^c2g2^a2] z2 |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2g2b2] z2 [G2B2d2] z2 |
+C2 z2 [E2A2c'2] z2 |
+D2 z2 [G2B2d2b2] z2 |
+% Bar 110 (1:49)
+D2 z2 [^F2c2d2a2] z2 |
+[G2B2d2g2] [G2B2d2] [G2B2d2g2] z2 |
++p+ [G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2g2b2] z2 [G2B2d2b2] z2 |
++pp+ E2 z2 [G2^c2e2] z2 |
+^F2 z2 [B2d2] z2 |
+[^F,2^F2] z2 [F2^A2^c2] z2 |
++mf+ [B,2b2] [B,2D2^F2B2b2] b2 z2 |
+% Bar 120 (1:59)
+[G,2d2-b2-] [G2d2b2] [G,2^c2g2^a2] z2 |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2-g2-b2-] [G2d2g2b2] [G,2^c2g2^a2] [c2g2a2] |
+[G,2d2g2b2] z2 [G2B2d2] z2 |
+C2 z2 [E2A2c'2] z2 |
+D2 z2 [G2B2d2b2] z2 |
+D2 z2 [^F2c2d2a2] z2 |
+[G2B2d2g2] z2 +f+ [G,Gdgb] z3 |
+[G,G^dgc'] z3 [G,G^ceg^a] z3 |
+[G,Gdfgb] z7 |
+% Bar 130 (2:09)
+z8 |
++mf+ [C,2C2G2-c2-e2-] [G2c2e2] [G2c2e2] [c2e2] |
+[E2G2c2e2] [G2c2e2] [C2G2c2e2] [G2c2e2] |
+[F,2F2A2d2] z2 [F2A2d2a2] [F2A2d2] |
+[F2A2d2f2] [F2A2d2] [F2A2d2] [F2A2d2] |
+[G,2b2] z2 [D2G2B2f2] [G2B2f2] |
+[B,2G2B2f2] [G2B2f2] [G,2G2B2f2] [G2B2f2] |
+[C,2C2G2-c2-e2-] [G2c2e2] c2 z2 |
+G2 [e2c'2] [E2g2] g2 |
++p+ [C,2C2] z2 [G2c2e2] [G2c2e2] |
+% Bar 140 (2:19)
+[E2G2c2e2] [G2c2e2] [C2G2c2e2] [G2c2e2] |
+[F,2F2A2d2] z2 [F2A2d2a2] [F2A2d2] |
+[F2A2d2f2] [F2A2d2] [F2A2d2] [F2A2d2] |
+[G,2b2] z2 [D2G2B2f2] [G2B2f2] |
+[B,2G2B2f2] [G2B2f2] [G,2G2B2f2] [G2B2f2] |
+[C2G2-c2-e2-] [E2G2c2e2] G2 c2 |
+[C2e2g2c'2] z6 |
+[E,E] z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+% Bar 150 (2:29)
+E z [Beg] z B, z [B^d^f] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+[D-db] D- [D-^c^a] D- +mp+ [D-=c=a] D +mf+ [GBg] z |
+G,2 [B2d2g2] [B2d2g2] [B2d2g2] |
+G,2 [B2d2g2] G,2 [c2d2^f2] |
+G,2 [d2g2b2] [d2g2b2] [d2g2b2] |
+G2 [d2g2b2] D2 [d2^f2c'2] |
+G,2 [B2d2g2] [B2d2g2] [B2d2g2] |
+% Bar 160 (2:39)
+G,2 [B2d2g2] G,2 [c2d2^f2] |
+G,2 [B2g2] [G,2G2B2d2] [B2e2] |
+[^F,2^F2d2^f2] [d2=f2] [^c2f2] [B,Bd] z |
+B,2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+B,2 [B2^d2^f2] B,2 [B2d2f2] |
+B,2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+% Bar 170 (2:49)
+B,2 [B2^d2^f2] z4 |
+e2 ^d2 [c2c'2] [B2b2] |
+e2 ^d2 [c2c'2] [B2b2] |
+e2 ^d2 [B,2B2b2] [C2c2c'2] |
+[B,2B2b2] [A,2A2a2] [G,2G2g2] [^F,2^F2^f2] |
+[E,2E2e2] [B2e2g2] [B2e2g2] [B2e2g2] |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z3 [B^d^f] z |
+E z [Beg] z [Beg] z [Beg] z |
+% Bar 180 (2:59)
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [E-Beg] E [Beg] z |
+E2 [B2e2g2] E2 [B2e2g2] |
+E,2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+E,2 [c2e2a2] E2 [c2e2] |
+E,2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+E,2 [B2e2g2] E2 [B2e2g2] |
+E,2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+E,2 [c2e2a2] E2 [c2e2] |
+E,2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+% Bar 190 (3:09)
+E,2 [B2e2g2] E2 [B2e2g2] |
+[^D,2-^D2-] [D,2D2B2^f2a2] [E,2E2B2-e2-g2-] [B2e2g2] |
+[^D,2-^D2-] [D,2D2B2^f2a2] [E,2E2B2-e2-g2-] [B2e2g2] |
+[^D,2^D2] [B2^f2a2] [B2f2a2] [B2f2a2] |
+[E,2E2] [B2e2g2] [B2e2g2] [B2e2g2b2] |
+A,2 [c2e2^f2] [c2e2f2] [c2e2f2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [B2^d2^f2] ^D2 [B2f2a2] |
+E2 [B2e2g2] G2 [e2b2] |
+A2 [e2c'2] A,2 [c2e2a2] |
+% Bar 200 (3:19)
+B,2 [B2e2g2] E2- [E2c2e2g2] |
+B,2 [B2e2g2] B,2 +f+ [B,^D^FB^d-^f-] [df] |
+[E3G3B3e3-g3-] [eg] [E3e3] z |
++mf+ [Ee] z [Ee] z [Ee] z [Ee] z |
++f+ [B3b3-] b [B3b3-] b |
++mf+ [Bb] z [Bb] z [Bb] z [Bb] z |
++ff+ [^F,3^F3^f3] z [F,3F3f3] z |
+[^F^f] z [Ee] z [Dd] z [^C^c] z |
+[B,B] z +pp+ D z ^F z B z |
+B, z [d2^f2] B, z [^c2e2f2] |
+% Bar 210 (3:29)
+B,2 [B2d2^f2] ^C2 [^A2^c2f2] |
+D2 [B2^f2] ^D2 [B2f2a2] |
+[E2B2e2g2] G2 [B2e2g2b2] e2 |
+^C2 [^A2e2g2] B,2 [B2e2g2] |
+^A,2 [^c2e2g2] [G,2G2] [c2e2b2] |
+[^F,2^F2] [^c2e2^a2] F2 [c2e2a2] |
+[B,2d2b2] D2 [^F2d2^f2b2] B2 |
+B,2 [d2^f2] B,2 [^c2e2f2] |
+B,2 [B2d2^f2] ^C2 [^A2^c2f2] |
+D2 [B2^f2] ^D2 [B2f2a2] |
+% Bar 220 (3:39)
+[E2B2e2g2] G2 [B2e2g2b2] e2 |
+G2 [B2e2] G2 [B2e2b2] |
+^F2 [B2d2^f2] F2 [B2d2f2] |
+[^F,2^F2] [^A2^c2^f2] [F,2F2] [A2c2f2] |
+B,2 [B2d2^f2] [B2d2f2] z2 |
+B, z [d2^f2] B, z [^c2e2f2] |
+B,2 [B2d2^f2] ^C2 [^A2^c2f2] |
+D2 [B2^f2] ^D2 [B2f2a2] |
+[E2B2e2g2] G2 [B2e2g2b2] e2 |
+^C2 [^A2e2g2] B,2 [B2e2g2] |
+% Bar 230 (3:49)
+^A,2 [^c2e2g2] [G,2G2] [c2e2b2] |
+[^F,2^F2] [^c2e2^a2] F2 [c2e2a2] |
+[B,2d2b2] D2 [^F2d2^f2b2] B2 |
+B,2 [d2^f2] B,2 [^c2e2f2] |
+B,2 [B2d2^f2] ^C2 [^A2^c2f2] |
+D2 [B2^f2] ^D2 [B2f2a2] |
+[E2B2e2g2] G2 [B2e2g2b2] e2 |
+G2 [B2e2] G2 [B2e2b2] |
+^F2 [B2d2^f2] F2 [B2d2f2] |
+[^F,2^F2] [^A2^c2^f2] [F,2F2] [A2c2f2] |
+% Bar 240 (3:59)
+B,2 [B2d2^f2] [B2d2f2] z2 |
+[G,2B2-d2-b2-] [D2B2-d2-b2-] [G2B2-d2-b2-] [D2B2d2b2] |
+G2 [B2d2] [B2d2] [B2d2] |
+[G,2G2] [B2e2] [B2e2] [B2e2] |
+[D,2D2] [c2d2^f2] [c2d2f2] [c2d2f2] |
+D2 [d2^f2a2] D2 [d2g2^a2] |
+D2 [d2^g2b2] D2 [d2a2c'2] |
+D2 [d2b2] D2 [d2e2c'2] |
+G2 [d2b2] [g2b2] [d2b2] |
+[G,2d2-g2-b2-] [D2d2-g2-b2-] [G2d2-g2-b2-] [D2d2g2b2] |
+% Bar 250 (4:09)
+G,2 [B2d2] [B2d2] [B2d2] |
+[G,2G2] [B2e2] [B2e2] [B2e2] |
+[D,2D2] [c2d2^f2] [c2d2f2] [c2d2f2] |
+D2 [^f2a2] ^D2 [f2a2c'2] |
+E2 [g2b2] E2 [^f2a2] |
+A,2 [f2^g2] A,2 [e2=g2] |
+D2- [D2d2^f2] [d2f2] [d2f2] |
+[G,2d2-g2-b2-] [D2d2-g2-b2-] [G2d2-g2-b2-] [D2d2g2b2] |
+[G,2G2] [B2d2] [B2d2] [B2d2] |
+[G,2G2] [B2e2] [B2e2] [B2e2] |
+% Bar 260 (4:19)
+[D,2D2] [c2d2^f2] [c2d2f2] [c2d2f2] |
+d2 [^f2a2] d2 [g2^a2] |
+d2 [^g2b2] d2 [a2c'2] |
+d2 [d2b2] d2 [e2c'2] |
+G2 [d2b2] [g2b2] [d2b2] |
+[G,2d2-g2-b2-] [D2d2-g2-b2-] [G2d2-g2-b2-] [D2d2g2b2] |
+[G,2G2] [B2d2g2] [B2d2g2] [Bdg] z |
+[G,2G2] [B2e2g2] [B2e2g2] [B2e2g2] |
+[D,2D2] [c2d2^f2] [c2d2f2] [c2d2f2] |
+d2 [^f2a2] ^d2 [f2a2c'2] |
+% Bar 270 (4:29)
+e2 [g2b2] E2 [^f2a2] |
+A2 [f2^g2] A,2 [e2=g2] |
+D2 [d2^f2] [d2f2] z2 |
++ff+ [^F,3^F3^f3] z [F,3F3f3] z |
++f+ [^F,^F^f] z [E,-E-e] [E,E] [D,Dd] z [^C,2^C2^c2] |
++pp+ [B,2B2] [d2^f2] B,2 [^c2e2f2] |
+B,2 [B2d2^f2] ^C2 [^A2^c2f2] |
+D2 [B2^f2] ^D2 [B2f2a2] |
+[E2B2e2g2] G2 [B2e2g2b2] e2 |
+^C2 [^A2e2g2] B,2 [B2e2g2] |
+% Bar 280 (4:39)
+^A,2 [^c2e2g2] [G,2G2] [c2e2b2] |
+[^F,2^F2] [^c2e2^a2] [F,2F2] [c2e2a2] |
+[B,2d2b2] D2 [^F2d2^f2b2] B2 |
+B,2 [d2^f2] B,2 [^c2e2f2] |
+B,2 [B2d2^f2] ^C2 [^A2^c2f2] |
+D2 [B2^f2] ^D2 [B2f2a2] |
+[E2B2e2g2] G2 [B2e2g2b2] e2 |
+G2 [B2e2] G2 [B2e2b2] |
+^F2 [B2d2^f2] F2 [d2f2b2] |
+[^F,2^F2] [^c2e2^f2] [F,2F2] [c2e2f2^a2] |
+% Bar 290 (4:49)
+B,2 [d2^f2b2] [d2f2b2] B2 |
+E2 [B2^c2e2g2] [B2c2e2g2] E2 |
+^F2 [B2d2^f2] [B2d2f2] F2 |
+^F,2 [^A2^c2^f2] [A2c2f2] ^F2 |
+B,2 [B2d2^f2] [d2f2b2] B2 |
+E2 [B2^c2e2g2] [B2c2e2g2] E2 |
+^F2 [B2d2^f2] [B2d2f2] F2 |
+^F,2 [^A2^c2^f2] [A2c2f2] ^F2 |
+B,2 z2 +f+ [B,2D2^F2B2b2] [B,2D2F2B2d2^f2] |
+[E-G-B-gb-] [E-G-B-e-^fb-] [E2G2B2e2b2] [E2G2B2^c2g2b2] [E2G2B2c2e2b2] |
+% Bar 300 (4:59)
+[^F-B-d^fb-] [F-B-d-eb-] [F2B2d2b2] [^F,2B,2D2F2f2] [F,2B,2D2F2d2] |
+[^F,2^A,2^C2^F2^f2] [F,2A,2C2F2e2] [F,2A,2C2F2d2] +ff+ [F,-A,-C-F-^c] [F,A,CF] |
++pp+ [B,2-^D2-^F2-b2] [B,2-D2-F2-] [B,4-D4-F4-^f4] |
+[B,3-^D3^F3^d3-] [B,-d] [B,3F3-d3-b3-] [Fdb] |
+[B,4-G4e4-^a4] [B,4-^G4e4^g4] |
+[B,4-A4^d4^f4] [B,4^A4^c4e4] |
+[B,4B4^d4] [^C2-^G2e2] [C2-^F2^f2] |
+[^C4-E4-^g4] [C3E3-^a3-] [Ea] |
+[^D4^F4b4] [E4^G4e4^g4] |
+[^F4-B4^d4^f4] [F4^A4^c4f4] |
+% Bar 310 (5:09)
+[B,4-^d4-^f4] [B,4^F4d4f4] |
+[B,4-B4^d4-] [B,4^F4d4b4] |
+[B,4-G4e4-^a4] [B,4^G4e4^g4] |
+[B,4-A4^d4^f4] [B,4-^A4^c4e4] |
+[B,3B3-^d3-] [Bd] [^C2-^G2e2] [C2-^F2^f2] |
+[^C4-E4-^g4] [C3E3-^a3-] [Ea] |
+[^D4^F4b4] [E4^G4e4^g4] |
+[^F4-B4^d4^f4] [F4^A4^c4f4] |
+[B,4-^d4-^f4] [B,4^F4d4b4] |
+[B,4-^c4-e4-b4] [B,4c4e4] |
+% Bar 320 (5:19)
+B,4 [^F4^a4] |
+[B,4-^d4-] [B,4^F4d4b4] |
+[B,4-^c4-e4-b4] [B,4^F4c4e4^a4] |
+[B,8^F8^d8b8] |
+[B,8B8^d8^f8] |
+[B,8^F8^d8b8] |
+[B,8B8^d8^f8] |
+[B,-^f] [B,^dfb] z2 [B2d2f2b2] [B2d2f2] |
+[B2^d2^f2] z2 [d2f2b2] [d2f2b2] |
+[^d2^f2b2] z2 [B2d2f2b2] [B2d2f2] |
+% Bar 330 (5:29)
+[B2^d2^f2] z2 [d2b2] [d2f2b2] |
+[^d4^f4b4-] [e4g4b4-] |
+[^d4^f4b4-] [e4g4b4-] |
+[^d-^f-b] [df] z6 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 340 (5:39)
+B8- |
+B8- |
+B4- B3 z |
+[E,E] z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z B, z [B^d^f] z |
+E z [Beg] z [Beg] z [Beg] z |
+E z [Beg] z E z [B^fa] z |
+E z [Beg] z [Beg] z [Beg] z |
+% Bar 350 (5:49)
+[D-db] D- [D-^c^a] D- [D-=c=a] D [GBg] z |
+G,2 [B2d2g2] [B2d2g2] [B2d2g2] |
+G,2 [B2d2g2] G,2 [c2d2^f2] |
+G,2 [d2g2b2] [d2g2b2] [d2g2b2] |
+G2 [d2g2b2] D2 [d2^f2c'2] |
+G,2 [B2d2g2] [B2d2g2] [B2d2g2] |
+G,2 [B2d2g2] G,2 [c2d2^f2] |
+G,2 [B2g2] [G,2G2B2d2] [B2e2] |
+[^F,2^F2d2^f2] [d2=f2] [^c2f2] [B,Bd] z |
+B,2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+% Bar 360 (5:59)
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+B,2 [B2^d2^f2] B,2 [B2d2f2] |
+B,2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+B,2 [B2e2g2] B,2 [B2e2g2] |
+B,2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+B,2 [B2^d2^f2] z4 |
+e2 ^d2 [c2c'2] [B2b2] |
+e2 ^d2 [c2c'2] [B2b2] |
+e2 ^d2 b2 c'2 |
+% Bar 370 (6:09)
++p+ [B,Bb] z [A,Aa] z [^G,^G^g] z [^F,^F^f] z |
++pp+ [E,2E2e2] [B2e2^g2] [B2e2g2] [B2e2g2] |
+E2 [B2e2^g2] E2 [e2g2b2] |
+[A,2A2] [^c2^f2a2] [c2f2a2] [c2f2a2] |
+A2 [^c2^f2] ^A2 [c2e2] |
+B2 [^d2b2] B2 [^c2a2] |
+B2 [^g2b2] B2 [^f2a2] |
+E2 [e2^g2] B,2 [^d2^f2] |
+E2 [e2^g2] +mf+ [B,2^D2^F2B2^d2^f2] [B,2D2F2B2d2f2] |
++pp+ E2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+% Bar 380 (6:19)
+E2 [B2e2^g2] E2 [e2g2b2] |
+[A,2A2] [^c2^f2a2] [c2f2a2] [c2f2a2] |
+A2 [^c2^f2] ^A2 [c2e2] |
+B2 [^d2b2] B2 [^c2a2] |
+B2 [^g2b2] B2 [^f2a2] |
+E2 [e2^g2] B,2 [^d2^f2] |
+E2 +f+ [B2e2] +ff+ [^G,-^G-c^d^g] [G,G] [G,-G-cdg] [G,G] |
++f+ ^C2- [C2-E2^c2] [C2-^G2e2] [C2^F2^d2] |
+[^C2-E2^c2] [C2^G2e2] [c2^g2] [c2e2] |
+^F2 [^c2^f2a2] F2 [c2f2a2] |
+% Bar 390 (6:29)
+^G2 [^c2e2^g2] ^G,2 [=c2^d2g2] |
+^C2- [C2-E2^c2] [C2-^G2e2] [C2^F2^d2] |
+[^C2-E2^c2] [C2^G2e2] [c2^g2] [c2e2] |
+^F2- [F2^c2^f2a2] z2 [c2f2a2] |
+^G2 [^c2e2^g2-] [^G,2g2] [=c2^d2] |
+^C2 [^c2e2^g2] ^F,2 [A2^d2^f2] |
+^G,2 [^G2^c2e2] G,2 [G2=c2^d2] |
+[^C,2^C2] [^G2^c2e2] ^F,2 [^F2A2^d2] |
+^G,2 [E2^G2^c2] G,2 [^F2G2=c2] |
+[^C,2^C2E2^G2^c2] z2 +ff+ [C4^F4A4=c4] |
+% Bar 400 (6:39)
++f+ [^C,2^C2E2^G2^c2] z2 +ff+ [C4^F4A4=c4] |
++f+ [^C,2E2^G2^c2] z6 |
+z8 |
+z8 |
+z8 |
++pp+ [E,2E2] [B2e2^g2] [B2e2g2] [B2e2g2] |
+E2 [B2e2^g2] E2 [e2g2b2] |
+[A,2A2] [^c2^f2a2] [c2f2a2] [c2f2a2] |
+A2 [^c2^f2] ^A2 [c2e2] |
+B2 [^d2b2] B2 [^c2a2] |
+% Bar 410 (6:49)
+B2 [^g2b2] B2 [^f2a2] |
+E2 [e2^g2] B,2 [^d2^f2] |
+E2 [e2^g2] +f+ [B,^D^FB^d^f] z [B,DFBdf] z |
++pp+ E2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+E2 [B2e2^g2] E2 [B2e2g2] |
+A,2 [^c2^f2] ^G,2 [c2=f2] |
+A,2 [^c2^f2] B,2 [^d2f2a2] |
+^C2 [e2^g2] ^D2 [^f2a2b2] |
+E2 [e2^g2b2] ^F2 [^d2a2b2] |
+[^G,2^G2] [e2b2] [G2^c2e2] [e2b2] |
+% Bar 420 (6:59)
+A,2 [^f2a2] [^c2f2b2] [f2a2] |
+B,2 [e2^g2] [B2e2a2] [e2g2] |
+B,2 [^d2^f2] [A2B2d2^g2] [d2f2] |
+E2 [e2^g2] [^G2^c2e2] [e2b2] |
+A,2 [^f2a2] [^c2f2b2] [f2a2] |
+B,2 [e2^g2] [B2e2a2] [e2g2] |
+B,2 [e2^f2] [B,2B2] [^d2f2b2] |
+[E2e2-^g2-] [B2e2g2] ^G2 E2 |
+B,2 +p+ b2 [A2B2^d2b2] b2 |
+E2 b2 [^G2B2e2b2] b2 |
+% Bar 430 (7:09)
+B,2 b2 [A2B2^d2b2] b2 |
+E2 b2 [^G2B2e2b2] b2 |
+[^D2-^F2-A2-B2-] [D2F2A2B2-b2] [E2^G2B2b2] b2 |
+[^D2-^F2-A2-B2-b2] [D2F2A2B2-b2] [E2^G2B2b2] b2 |
+[^D2-^F2-A2-B2-b2] [D2F2A2B2-b2] [E2^G2B2b2] b2 |
+[^C2-E2-G2-^A2-^a2] [C2-E2-G2-A2-] [C-E-GA-] [C3-E3-A3-] |
+[^C4-E4-^G4-^A4-] [CEG-A] G3 |
+^A4- [A4^c4e4g4] |
+^c4- [c4e4g4^a4] |
+B,2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+% Bar 440 (7:19)
++pp+ [B,2B2e2^g2] [B2e2g2] [B2e2g2] [B2e2g2] |
+[B,2B2] [^f2a2] [B,2B2] [e2g2^a2] |
+[B,2B2] [^d2^f2b2] [B,2B2] [d2f2b2] |
+[E2e2-^g2-] [B2e2g2] ^G2 E2 |
+B,2 +p+ b2 [A2B2^d2b2] b2 |
+E2 b2 [^G2B2e2b2] b2 |
+B,2 b2 [A2B2^d2b2] b2 |
+E2 b2 [^G2B2e2b2] b2 |
+[^D2-^F2-A2-B2-] [D2F2A2B2-b2] [E2^G2B2b2] b2 |
+[^D2-^F2-A2-B2-b2] [D2F2A2B2-b2] [E2^G2B2b2] b2 |
+% Bar 450 (7:29)
+[^D2-^F2-A2-B2-b2] [D2F2A2B2-b2] [E2^G2B2b2] b2 |
+[^C2-E2-G2-^A2-^a2] [C2-E2-G2-A2-] [C-E-GA-] [C3-E3-A3-] |
+[^C4-E4-^G4-^A4-] [CEG-A] G3 |
+^A4- [A4^c4e4g4] |
+^c4- [c4e4g4^a4] |
+B,2 [B2e2^g2] [B2e2g2] [B2e2g2] |
++pp+ [B,2B2e2^g2] [B2e2g2] [B2e2g2] [B2e2g2] |
+[B,2B2] [^f2a2] [B,2B2] [e2g2^a2] |
+[B,2B2] [^d2^f2b2] [B,2B2] [d2f2b2] |
+E2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+% Bar 460 (7:39)
+[B,b-] b- [B2^d2b2-] [^c2e2b2-] [d2^f2b2] |
+E2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+[B,b-] b- [B2^d2b2-] [^c2e2b2-] [d2^f2b2] |
+E2 [B2e2^g2] [B2e2g2] [B2e2g2] |
++p+ [E8B8e8^g8b8] |
+[E8B8e8^g8b8] |
+[E8B8e8^g8b8] |
+[E8B8-e8-^g8-] |
++pp+ [E8B8e8^g8] |
+[E-^gb-] [EBegb] z6 |
+% Bar 470 (7:49)
+[E-^G-B-e-b] [EGBe^gb] z6 |
++ff+ [E3^G3B3e3-^g3-b3-] [egb] [E3e3-] e |
++f+ [Ee] z [Ee] z [Ee] z [Ee] z |
++ff+ [E3e3-] e [E,3E3e3-] e |
++f+ [E,2E2e2] [E,2E2e2] [E,2E2e2] [E,2E2e2] |
+[E,4E4e4] z4 |
+[B,4^D4^F4B4^d4^f4] z4 |
+[B,B] [^G,A,^GA] [E,-^F,E-^F] [E,E] z4 |]
+
+
+X: 2
+T: The Dance of the Goblins (7:57) - Basic Harp
+%%part-name Basic Harp
+C: Antonio Bazzini
+M: 2/4
+Q: 192
+K: C maj
+
++ff+ b3 z b3 z |
++f+ b z b z b z b z |
++ff+ B3 z B3 z |
++f+ B z B z B z B z |
+z2 +p+ [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^d^f] z |
+z2 [Beg] z [Beg] z [Beg] z |
+% Bar 10 (0:09)
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+[db] z +mp+ [^c^a] z [=c=a] z +mf+ [Bg] z |
+z2 [B2d2g2] [B2d2g2] [B2d2g2] |
+z2 [B2d2g2] z2 [c2d2^f2] |
+z2 [d2g2b2] [d2g2b2] [d2g2b2] |
+z2 [d2g2b2] z2 [d2^f2c'2] |
+z2 [B2d2g2] [B2d2g2] [B2d2g2] |
+z2 [B2d2g2] z2 [c2d2^f2] |
+z2 [B2g2] [B2d2] [B2e2] |
+% Bar 20 (0:19)
+[d2^f2] [d2=f2] [^c2f2] [Bd] z |
+z2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+z2 [B2^d2^f2] z2 [B2d2f2] |
+z2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+z2 [B2^d2^f2] z4 |
+e2 ^d2 c'2 b2 |
+% Bar 30 (0:29)
+e2 ^d2 c'2 b2 |
+e2 ^d2 b2 c'2 |
+b2 a2 g2 ^f2 |
+e2 [B2e2g2] [B2e2g2] [B2e2g2] |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^d^f] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+% Bar 40 (0:39)
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+z2 [c2e2a2] z2 [c2e2] |
+z2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+z2 [c2e2a2] z2 [c2e2] |
+z2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2^f2a2] [B4e4g4] |
+% Bar 50 (0:49)
+z2 [B2^f2a2] [B4e4g4] |
+z2 [B2^f2a2] [B2f2a2] [B2f2a2] |
+z2 [B2e2g2] [B2e2g2] [B2e2g2b2] |
+z2 [c2e2^f2] [c2e2f2] [c2e2f2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2^d2^f2] z2 [B2f2a2] |
+z2 [B2e2g2] z2 [e2b2] |
+z2 [e2c'2] z2 [c2e2a2] |
+z2 [B2e2g2] z2 [c2e2g2] |
+z2 [B2e2g2] z2 [^d2^f2] |
+% Bar 60 (0:59)
++f+ [e4g4] +ff+ e3 z |
++f+ e z e z e z e z |
+e4 e4 |
+e z e z e z e z |
+[G4c4e4] [c2e2] [c2e2] |
+[G2c2e2] [G2c2e2] [G2c2e2] [G2c2e2] |
+[A2d2] z2 a2 z2 |
+f2 z2 d2 z2 |
+b2 z2 [G2B2f2] [G2B2f2] |
+[G2B2f2] [G2B2f2] [G2B2f2] [G2B2f2] |
+% Bar 70 (1:09)
+[G4c4e4] z4 |
+z2 [e2c'2] g2 g2 |
+z4 [Gc-e-] [ce] [G2c2e2] |
+[G2c2e2] [G2c2e2] [G2c2e2] [G2c2e2] |
+[A2d2] z2 a2 z2 |
+f2 z6 |
+b2 z2 [G2B2f2] [G2B2f2] |
+[G2B2f2] [G2B2f2] [G2B2f2] [G2B2f2] |
+[G4c4e4] z4 |
+z2 [e2g2] [e2c'2] z2 |
+% Bar 80 (1:19)
+[G4c4e4] [c2e2] [c2e2] |
+[G2c2e2] [G2c2e2] [G2c2e2] [G2c2e2] |
+[A2d2] z2 a2 z2 |
+f2 z2 d2 z2 |
+b2 z2 [G2B2f2] [G2B2f2] |
+[G2B2f2] [G2B2f2] [G2B2f2] [G2B2f2] |
+[G4c4e4] z4 |
+z2 [e2c'2] g2 g2 |
+z4 [Gc-e-] [ce] [G2c2e2] |
+[G2c2e2] [G2c2e2] [G2c2e2] [G2c2e2] |
+% Bar 90 (1:29)
+[A2d2] z2 a2 z2 |
+f2 z6 |
+b2 z2 [G2B2f2] [G2B2f2] |
+[G2B2f2] [G2B2f2] [G2B2f2] [G2B2f2] |
+[G4c4e4] z4 |
+z2 [e2g2] [e2c'2] z2 |
+[d4b4] [^c2g2^a2] z2 |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d2b2] z2 b2 z2 |
+% Bar 100 (1:39)
+z4 a2 z2 |
+z4 g2 z2 |
+z4 ^f2 z2 |
+e2 g2 e2 z2 |
+[d4b4] [^c2g2^a2] z2 |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d2g2b2] z2 d2 z2 |
+z4 c'2 z2 |
+z4 b2 z2 |
+% Bar 110 (1:49)
+z4 a2 z2 |
+g2 d2 g2 z2 |
++p+ [d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d2g2b2] z2 b2 z2 |
+z4 +pp+ e2 z2 |
+z4 d2 z2 |
+z4 ^c2 z2 |
++mf+ b2 b2 b2 z2 |
+% Bar 120 (1:59)
+[d4b4] [^c2g2^a2] z2 |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d4g4b4] [^c2g2^a2] [c2g2a2] |
+[d2g2b2] z2 d2 z2 |
+z4 c'2 z2 |
+z4 b2 z2 |
+z4 a2 z2 |
+g2 z2 +f+ [dgb] z3 |
+[^dgc'] z3 [^ceg^a] z3 |
+[dfgb] z7 |
+% Bar 130 (2:09)
+z8 |
++mf+ [G4c4e4] [c2e2] [c2e2] |
+[G2c2e2] [G2c2e2] [G2c2e2] [G2c2e2] |
+[A2d2] z2 a2 z2 |
+f2 z2 d2 z2 |
+b2 z2 [G2B2f2] [G2B2f2] |
+[G2B2f2] [G2B2f2] [G2B2f2] [G2B2f2] |
+[G4c4e4] z4 |
+z2 [e2c'2] g2 g2 |
+z4 +p+ [Gc-e-] [ce] [G2c2e2] |
+% Bar 140 (2:19)
+[G2c2e2] [G2c2e2] [G2c2e2] [G2c2e2] |
+[A2d2] z2 a2 z2 |
+f2 z6 |
+b2 z2 [G2B2f2] [G2B2f2] |
+[G2B2f2] [G2B2f2] [G2B2f2] [G2B2f2] |
+[G4c4e4] z4 |
+[e2g2c'2] z6 |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+% Bar 150 (2:29)
+z2 [Beg] z3 [B^d^f] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+[db] z [^c^a] z +mp+ [=c=a] z +mf+ [Bg] z |
+z2 [B2d2g2] [B2d2g2] [B2d2g2] |
+z2 [B2d2g2] z2 [c2d2^f2] |
+z2 [d2g2b2] [d2g2b2] [d2g2b2] |
+z2 [d2g2b2] z2 [d2^f2c'2] |
+z2 [B2d2g2] [B2d2g2] [B2d2g2] |
+% Bar 160 (2:39)
+z2 [B2d2g2] z2 [c2d2^f2] |
+z2 [B2g2] [B2d2] [B2e2] |
+[d2^f2] [d2=f2] [^c2f2] [Bd] z |
+z2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+z2 [B2^d2^f2] z2 [B2d2f2] |
+z2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+% Bar 170 (2:49)
+z2 [B2^d2^f2] z4 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 b2 c'2 |
+b2 a2 g2 ^f2 |
+e2 [B2e2g2] [B2e2g2] [B2e2g2] |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^d^f] z |
+z2 [Beg] z [Beg] z [Beg] z |
+% Bar 180 (2:59)
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+z2 [c2e2a2] z2 [c2e2] |
+z2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2d2f2^g2] [B2d2f2g2] [B2d2f2g2] |
+z2 [c2e2a2] z2 [c2e2] |
+z2 [B2^d2^f2] [B2d2f2] [B2d2f2] |
+% Bar 190 (3:09)
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2^f2a2] [B4e4g4] |
+z2 [B2^f2a2] [B4e4g4] |
+z2 [B2^f2a2] [B2f2a2] [B2f2a2] |
+z2 [B2e2g2] [B2e2g2] [B2e2g2b2] |
+z2 [c2e2^f2] [c2e2f2] [c2e2f2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [B2^d2^f2] z2 [B2f2a2] |
+z2 [B2e2g2] z2 [e2b2] |
+z2 [e2c'2] z2 [c2e2a2] |
+% Bar 200 (3:19)
+z2 [B2e2g2] z2 [c2e2g2] |
+z2 [B2e2g2] z2 [^d2^f2] |
+[e4g4] +f+ e3 z |
++mf+ e z e z e z e z |
+b4 b4 |
+b z b z b z b z |
++ff+ ^f3 z f3 z |
+^f z e z d z ^c z |
+B z7 |
+z2 +pp+ [d2^f2] z2 [^c2e2f2] |
+% Bar 210 (3:29)
+z2 [B2d2^f2] z2 [^A2^c2f2] |
+z2 [B2^f2] z2 [B2f2a2] |
+[B2e2g2] z2 [e2g2b2] z2 |
+z2 [^A2e2g2] z2 [B2e2g2] |
+z2 [^c2e2g2] z2 [c2e2b2] |
+z2 [^c2e2^a2] z2 [c2e2a2] |
+[d2b2] z2 [d2^f2b2] z2 |
+z2 [d2^f2] z2 [^c2e2f2] |
+z2 [B2d2^f2] z2 [^A2^c2f2] |
+z2 [B2^f2] z2 [B2f2a2] |
+% Bar 220 (3:39)
+[B2e2g2] z2 [e2g2b2] z2 |
+z2 [B2e2] z2 [B2e2b2] |
+z2 [B2d2^f2] z2 [B2d2f2] |
+z2 [^A2^c2^f2] z2 [A2c2f2] |
+z2 [B2d2^f2] [B2d2f2] z2 |
+z2 [d2^f2] z2 [^c2e2f2] |
+z2 [B2d2^f2] z2 [^A2^c2f2] |
+z2 [B2^f2] z2 [B2f2a2] |
+[B2e2g2] z2 [e2g2b2] z2 |
+z2 [^A2e2g2] z2 [B2e2g2] |
+% Bar 230 (3:49)
+z2 [^c2e2g2] z2 [c2e2b2] |
+z2 [^c2e2^a2] z2 [c2e2a2] |
+[d2b2] z2 [d2^f2b2] z2 |
+z2 [d2^f2] z2 [^c2e2f2] |
+z2 [B2d2^f2] z2 [^A2^c2f2] |
+z2 [B2^f2] z2 [B2f2a2] |
+[B2e2g2] z2 [e2g2b2] z2 |
+z2 [B2e2] z2 [B2e2b2] |
+z2 [B2d2^f2] z2 [B2d2f2] |
+z2 [^A2^c2^f2] z2 [A2c2f2] |
+% Bar 240 (3:59)
+z2 [B2d2^f2] [B2d2f2] z2 |
+[B8d8b8] |
+z2 [B2d2] [B2d2] [B2d2] |
+z2 [B2e2] [B2e2] [B2e2] |
+z2 [c2d2^f2] [c2d2f2] [c2d2f2] |
+z2 [^f2a2] z2 [g2^a2] |
+z2 [^g2b2] z2 [a2c'2] |
+z2 [d2b2] z2 [e2c'2] |
+z2 [d2b2] [g2b2] [d2b2] |
+[d8g8b8] |
+% Bar 250 (4:09)
+z2 [B2d2] [B2d2] [B2d2] |
+z2 [B2e2] [B2e2] [B2e2] |
+z2 [c2d2^f2] [c2d2f2] [c2d2f2] |
+z2 [^f2a2] z2 [f2a2c'2] |
+z2 [g2b2] z2 [^f2a2] |
+z2 [f2^g2] z2 [e2=g2] |
+z2 [d2^f2] [d2f2] [d2f2] |
+[d8g8b8] |
+z2 [B2d2] [B2d2] [B2d2] |
+z2 [B2e2] [B2e2] [B2e2] |
+% Bar 260 (4:19)
+z2 [c2d2^f2] [c2d2f2] [c2d2f2] |
+z2 [^f2a2] z2 [g2^a2] |
+z2 [^g2b2] z2 [a2c'2] |
+z2 [d2b2] z2 [e2c'2] |
+z2 [d2b2] [g2b2] [d2b2] |
+[d8g8b8] |
+z2 [B2d2g2] [B2d2g2] [Bdg] z |
+z2 [B2e2g2] [B2e2g2] [B2e2g2] |
+z2 [c2d2^f2] [c2d2f2] [c2d2f2] |
+z2 [^f2a2] z2 [f2a2c'2] |
+% Bar 270 (4:29)
+z2 [g2b2] z2 [^f2a2] |
+z2 [f2^g2] z2 [e2=g2] |
+z2 [d2^f2] [d2f2] z2 |
++ff+ ^f3 z f3 z |
++f+ ^f z e z d z ^c2 |
++pp+ B2 [d2^f2] z2 [^c2e2f2] |
+z2 [B2d2^f2] z2 [^A2^c2f2] |
+z2 [B2^f2] z2 [B2f2a2] |
+[B2e2g2] z2 [e2g2b2] z2 |
+z2 [^A2e2g2] z2 [B2e2g2] |
+% Bar 280 (4:39)
+z2 [^c2e2g2] z2 [c2e2b2] |
+z2 [^c2e2^a2] z2 [c2e2a2] |
+[d2b2] z2 [d2^f2b2] z2 |
+z2 [d2^f2] z2 [^c2e2f2] |
+z2 [B2d2^f2] z2 [^A2^c2f2] |
+z2 [B2^f2] z2 [B2f2a2] |
+[B2e2g2] z2 [e2g2b2] z2 |
+z2 [B2e2] z2 [B2e2b2] |
+z2 [B2d2^f2] z2 [d2f2b2] |
+z2 [^c2e2^f2] z2 [c2e2f2^a2] |
+% Bar 290 (4:49)
+z2 [d2^f2b2] [d2f2b2] z2 |
+z2 [B2^c2e2g2] [B2c2e2g2] z2 |
+z2 [B2d2^f2] [B2d2f2] z2 |
+z2 [^A2^c2^f2] [A2c2f2] z2 |
+z2 [B2d2^f2] [d2f2b2] z2 |
+z2 [B2^c2e2g2] [B2c2e2g2] z2 |
+z2 [B2d2^f2] [B2d2f2] z2 |
+z2 [^A2^c2^f2] [A2c2f2] z2 |
+z4 +f+ b2 [d2^f2] |
+[gb-] [e-^fb-] [e2b2] [g2b2] [e2b2] |
+% Bar 300 (4:59)
+[^fb-] [d-eb-] [d2b2] f2 d2 |
+^f2 e2 d2 +ff+ ^c z |
++pp+ b2 z2 ^f4 |
+^d4 [d4b4] |
+[e4-^a4] [e4^g4] |
+[^d4^f4] [^c4e4] |
+^d4 e2 ^f2 |
+^g4 ^a4 |
+b4 [e4^g4] |
+[^d4^f4] [^c4f4] |
+% Bar 310 (5:09)
+[^d4-^f4] [d4f4] |
+^d4- [d4b4] |
+[e4-^a4] [e4^g4] |
+[^d4^f4] [^c4e4] |
+^d4 e2 ^f2 |
+^g4 ^a4 |
+b4 [e4^g4] |
+[^d4^f4] [^c4f4] |
+[^d4-^f4] [d4b4] |
+[^c4-e4-b4] [c4e4] |
+% Bar 320 (5:19)
+z4 ^a4 |
+^d4- [d4b4] |
+[^c4-e4-b4] [c4e4^a4] |
+[^d8b8] |
+[^d8^f8] |
+[^d8b8] |
+[^d8^f8] |
+^f [fb] z2 b2 ^d2 |
+^f2 z2 [^d2f2] [d2f2] |
+[^d2^f2] z2 b2 d2 |
+% Bar 330 (5:29)
+^f2 z2 ^d2 [d2f2] |
+[^d4^f4b4-] [e4g4b4-] |
+[^d4^f4b4-] [e4g4b4-] |
+[^d-^f-b] [df] z6 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 340 (5:39)
+B8- |
+B8- |
+B4- B3 z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^d^f] z |
+z2 [Beg] z [Beg] z [Beg] z |
+z2 [Beg] z3 [B^fa] z |
+z2 [Beg] z [Beg] z [Beg] z |
+% Bar 350 (5:49)
+[db] z [^c^a] z [=c=a] z [Bg] z |
+z2 [B2d2g2] [B2d2g2] [B2d2g2] |
+z2 [B2d2g2] z2 [c2d2^f2] |
+z2 [d2g2b2] [d2g2b2] [d2g2b2] |
+z2 [d2g2b2] z2 [d2^f2c'2] |
+z2 [B2d2g2] [B2d2g2] [B2d2g2] |
+z2 [B2d2g2] z2 [c2d2^f2] |
+z2 [B2g2] [B2d2] [B2e2] |
+[d2^f2] [d2=f2] [^c2f2] [Bd] z |
+z2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+% Bar 360 (5:59)
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+z2 [B2^d2^f2] z2 [B2d2f2] |
+z2 [B2^d2a2] [B2d2a2] [B2d2a2] |
+z2 [B2e2g2] z2 [B2e2g2] |
+z2 [^A2^c2g2] [A2c2g2] [A2c2g2] |
+z2 [B2^d2^f2] z4 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 b2 c'2 |
+% Bar 370 (6:09)
++p+ b z a z ^g z ^f z |
++pp+ e2 [e2^g2] [e2g2] [e2g2] |
+z2 [B2e2^g2] z2 [e2g2b2] |
+z2 [^c2^f2a2] [c2f2a2] [c2f2a2] |
+z2 [^c2^f2] z2 [c2e2] |
+z2 [^d2b2] z2 [^c2a2] |
+z2 [^g2b2] z2 [^f2a2] |
+z2 [e2^g2] z2 [^d2^f2] |
+z2 [e2^g2] +mf+ [^d2^f2b2] [d2f2b2] |
+z2 +pp+ [B2e2^g2] [B2e2g2] [B2e2g2] |
+% Bar 380 (6:19)
+z2 [B2e2^g2] z2 [e2g2b2] |
+z2 [^c2^f2a2] [c2f2a2] [c2f2a2] |
+z2 [^c2^f2] z2 [c2e2] |
+z2 [^d2b2] z2 [^c2a2] |
+z2 [^g2b2] z2 [^f2a2] |
+z2 [e2^g2] z2 [^d2^f2] |
+z2 +f+ [B2e2] +ff+ [c^d^g] z [cdg] z |
+z2 +f+ ^c2 e2 ^d2 |
+^c2 e2 ^g2 [c2e2] |
+z2 [^c2^f2a2] z2 [c2f2a2] |
+% Bar 390 (6:29)
+z2 [^c2e2^g2] z2 [=c2^d2g2] |
+z2 ^c2 e2 ^d2 |
+^c2 e2 ^g2 [c2e2] |
+z2 [^c2^f2a2] z2 [c2f2a2] |
+z2 [^c2e2^g2-] g2 [=c2^d2] |
+z2 [^c2e2^g2] z2 [A2^d2^f2] |
+z2 [^G2^c2e2] z2 [G2=c2^d2] |
+z2 [^G2^c2e2] z2 [^F2A2^d2] |
+z2 [E2^G2^c2] z2 [^F2G2=c2] |
+[E2^G2^c2] z2 [^F4A4=c4] |
+% Bar 400 (6:39)
+[E2^G2^c2] z2 +ff+ [^F4A4=c4] |
++f+ [E2^G2^c2] z6 |
+z8 |
+z8 |
+z8 |
+z2 +pp+ [B2e2^g2] [B2e2g2] [B2e2g2] |
+z2 [B2e2^g2] z2 [e2g2b2] |
+z2 [^c2^f2a2] [c2f2a2] [c2f2a2] |
+z2 [^c2^f2] z2 [c2e2] |
+z2 [^d2b2] z2 [^c2a2] |
+% Bar 410 (6:49)
+z2 [^g2b2] z2 [^f2a2] |
+z2 [e2^g2] z2 [^d2^f2] |
+z2 [e2^g2] +f+ [^d^fb] z [dfb] z |
+z2 +pp+ [B2e2^g2] [B2e2g2] [B2e2g2] |
+z2 [B2e2^g2] z2 [B2e2g2] |
+z2 [^c2^f2] z2 [c2=f2] |
+z2 [^c2^f2] z2 [^d2f2a2] |
+z2 [e2^g2] z2 [^f2a2b2] |
+z2 [e2^g2b2] z2 [^d2a2b2] |
+z2 [e2b2] [^c2e2] [e2b2] |
+% Bar 420 (6:59)
+z2 [^f2a2] [f2b2] [f2a2] |
+z2 [e2^g2] [e2a2] [e2g2] |
+z2 [^d2^f2] [d2^g2] [d2f2] |
+z2 [e2^g2] [^c2e2] [e2b2] |
+z2 [^f2a2] [f2b2] [f2a2] |
+z2 [e2^g2] [e2a2] [e2g2] |
+z2 [e2^f2] z2 [^d2f2b2] |
+[e4^g4] z4 |
+z2 +p+ b2 b2 b2 |
+z2 b2 b2 b2 |
+% Bar 430 (7:09)
+z2 b2 b2 b2 |
+z2 b2 b2 b2 |
+z2 b2 b2 b2 |
+b2 b2 b2 b2 |
+b2 b2 b2 b2 |
+^a2 z6 |
+z8 |
+z4 [^c4e4g4] |
+z4 [e4g4^a4] |
+z2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+% Bar 440 (7:19)
++pp+ [B2e2^g2] [B2e2g2] [B2e2g2] [B2e2g2] |
+z2 [^f2a2] z2 [e2g2^a2] |
+z2 [^d2^f2b2] z2 [d2f2b2] |
+[e4^g4] z4 |
+z2 +p+ b2 b2 b2 |
+z2 b2 b2 b2 |
+z2 b2 b2 b2 |
+z2 b2 b2 b2 |
+z2 b2 b2 b2 |
+b2 b2 b2 b2 |
+% Bar 450 (7:29)
+b2 b2 b2 b2 |
+^a2 z6 |
+z8 |
+z4 [^c4e4g4] |
+z4 [e4g4^a4] |
+z2 [B2e2^g2] [B2e2g2] [B2e2g2] |
++pp+ [B2e2^g2] [B2e2g2] [B2e2g2] [B2e2g2] |
+z2 [^f2a2] z2 [e2g2^a2] |
+z2 [^d2^f2b2] z2 [d2f2b2] |
+z2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+% Bar 460 (7:39)
+b2- [^d2b2-] [e2b2-] [^f2b2] |
+z2 [B2e2^g2] [B2e2g2] [B2e2g2] |
+b2- [^d2b2-] [e2b2-] [^f2b2] |
+z2 [B2e2^g2] [B2e2g2] [B2e2g2] |
++p+ [B8e8^g8b8] |
+[B8e8^g8b8] |
+[B8e8^g8b8] |
+[e8-^g8-] |
+[e8^g8] |
++pp+ [^gb-] [egb] z6 |
+% Bar 470 (7:49)
+[e-b] [e^gb] z6 |
++f+ [e4^g4b4] e4 |
+e z e z e z e z |
+e4 e4 |
+e2 e2 e2 e2 |
+e4 z4 |
+[^d4^f4b4] z4 |
+B [^GA] [E-^F] E z4 |]
+
+
+X: 3
+T: The Dance of the Goblins (7:57) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Antonio Bazzini
+M: 2/4
+Q: 192
+K: C maj
+
++ff+ [B3b3] z [B3b3] z |
++f+ [B2b2] [B2b2] [B2b2] [B2b2] |
++ff+ [B,3B3] z [B,3B3] z |
++f+ [B,2B2] [B,2B2] [B,2B2] [B,2B2] |
++p+ [Ee] z7 |
+e z3 e z3 |
+e z7 |
+e z3 B z3 |
+e z7 |
+% Bar 10 (0:09)
+e z3 e z3 |
+e z7 |
+d6 +mf+ g z |
+G2 z6 |
+G2 z2 G2 z2 |
+G2 z6 |
+g2 z2 d2 z2 |
+G2 z6 |
+G2 z2 G2 z2 |
+G2 z2 [G2g2] z2 |
+% Bar 20 (0:19)
+[^F2^f2] z4 B z |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z6 |
+e2 ^d2 c'2 b2 |
+% Bar 30 (0:29)
+e2 ^d2 c'2 b2 |
+e2 ^d2 [B2b2] [c2c'2] |
+[B2b2] [A2a2] [G2g2] [^F2^f2] |
+[E2e2] z6 |
+e z3 e z3 |
+e z7 |
+e z7 |
+e z7 |
+e z3 e z3 |
+e z3 e2 z2 |
+% Bar 40 (0:39)
+e2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+[^D4^d4] [E2e2] z2 |
+% Bar 50 (0:49)
+[^D4^d4] [E2e2] z2 |
+[^D2^d2] z6 |
+[E2e2] z6 |
+A2 z6 |
+B2 z2 B2 z2 |
+B2 z2 ^d2 z2 |
+e2 z2 g2 z2 |
+a2 z2 A2 z2 |
+B2 z2 e4 |
+B2 z2 B2 [B2^d2^f2b2] |
+% Bar 60 (0:59)
++f+ [e4g4b4] +ff+ e3 z |
++f+ e z e z e z e z |
+e4 [E4e4] |
+[Ee] z [Ee] z [Ee] z [Ee] z |
+[C2c2] z2 g2 z2 |
+e2 z2 c2 z2 |
+[F2f2] z2 [d2f2a2] [d2f2a2] |
+[d2f2a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+G2 z2 d2 z2 |
+B2 z2 G2 z2 |
+% Bar 70 (1:09)
+[C2c2] z2 c'2 z2 |
+g2 z2 e2 z2 |
+[C2c2] z2 g2 z2 |
+e2 z2 c2 z2 |
+[F2f2] z2 [d2f2a2] [d2f2a2] |
+[d2f2a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+G2 z2 d2 z2 |
+B2 z2 G2 z2 |
+c4 g2 c'2 |
+c4 z4 |
+% Bar 80 (1:19)
+[C2c2] z2 g2 z2 |
+e2 z2 c2 z2 |
+[F2f2] z2 [d2f2a2] [d2f2a2] |
+[d2f2a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+G2 z2 d2 z2 |
+B2 z2 G2 z2 |
+[C2c2] z2 c'2 z2 |
+g2 z2 e2 z2 |
+[C2c2] z2 g2 z2 |
+e2 z2 c2 z2 |
+% Bar 90 (1:29)
+[F2f2] z2 [d2f2a2] [d2f2a2] |
+[d2f2a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+G2 z2 d2 z2 |
+B2 z2 G2 z2 |
+c4 g2 c'2 |
+c4 z4 |
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+B2 z2 [d2g2b2] z2 |
+% Bar 100 (1:39)
+A2 z2 [c2^f2] z2 |
+B2 z2 [e2g2b2] z2 |
+B2 z2 [^d2a2b2] z2 |
+[e2g2b2] [e2g2b2] [e2g2b2] z2 |
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 z2 [g2b2] z2 |
+c2 z2 [e2a2] z2 |
+d2 z2 [d2g2b2] z2 |
+% Bar 110 (1:49)
+d2 z2 [d2^f2c'2] z2 |
+[d2g2b2] [d2g2b2] [d2g2b2] z2 |
++p+ G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 z2 [d2g2b2] z2 |
++pp+ e2 z2 [^c2g2] z2 |
+^f2 z2 [d2b2] z2 |
+[^F2^f2] z2 [^c2f2^a2] z2 |
++mf+ B2 [B2d2^f2b2] z4 |
+% Bar 120 (1:59)
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 g2 G2 z2 |
+G2 z2 [g2b2] z2 |
+c2 z2 [e2a2] z2 |
+d2 z2 [d2g2b2] z2 |
+d2 z2 [d2^f2c'2] z2 |
+[d2g2b2] z2 +f+ [Gg] z3 |
+[Gg] z3 [Gg] z3 |
+[Gg] z7 |
+% Bar 130 (2:09)
+z8 |
++mf+ [C2c2] z2 g2 z2 |
+e2 z2 c2 z2 |
+[F2f2] z2 [d2f2a2] [d2f2a2] |
+[d2f2a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+G2 z2 d2 z2 |
+B2 z2 G2 z2 |
+[C2c2] z2 c'2 z2 |
+g2 z2 e2 z2 |
++p+ [C2c2] z2 g2 z2 |
+% Bar 140 (2:19)
+e2 z2 c2 z2 |
+[F2f2] z2 [d2f2a2] [d2f2a2] |
+[d2f2a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+G2 z2 d2 z2 |
+B2 z2 G2 z2 |
+c2 e2 g2 c'2 |
+c2 z6 |
+[Ee] z7 |
+e z3 e z3 |
+e z7 |
+% Bar 150 (2:29)
+e z3 B z3 |
+e z7 |
+e z3 e z3 |
+e z7 |
+d6 +mf+ g z |
+G2 z6 |
+G2 z2 G2 z2 |
+G2 z6 |
+g2 z2 d2 z2 |
+G2 z6 |
+% Bar 160 (2:39)
+G2 z2 G2 z2 |
+G2 z2 [G2g2] z2 |
+[^F2^f2] z4 B z |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+% Bar 170 (2:49)
+[B,2B2] z6 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 [B2b2] [c2c'2] |
+[B2b2] [A2a2] [G2g2] [^F2^f2] |
+[E2e2] z6 |
+e z3 e z3 |
+e z7 |
+e z7 |
+e z7 |
+% Bar 180 (2:59)
+e z3 e z3 |
+e z3 e2 z2 |
+e2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+E2 z6 |
+E2 z2 e2 z2 |
+E2 z6 |
+% Bar 190 (3:09)
+E2 z2 e2 z2 |
+[^D4^d4] [E2e2] z2 |
+[^D4^d4] [E2e2] z2 |
+[^D2^d2] z6 |
+[E2e2] z6 |
+A2 z6 |
+B2 z2 B2 z2 |
+B2 z2 ^d2 z2 |
+e2 z2 g2 z2 |
+a2 z2 A2 z2 |
+% Bar 200 (3:19)
+B2 z2 e4 |
+B2 z2 B2 +f+ [B^d^fb] z |
+[e3g3b3] z e3 z |
++mf+ e z e z e z e z |
++f+ b3 z b3 z |
++mf+ b z b z b z b z |
++ff+ [^F3^f3] z [F3f3] z |
+^f z e z d z ^c z |
+[B,B] z +pp+ d z ^f z b z |
+B z3 B z3 |
+% Bar 210 (3:29)
+B2 z2 ^c2 z2 |
+d2 z2 ^d2 z2 |
+e2 g2 b2 e2 |
+^c2 z2 B2 z2 |
+^A2 z2 [G2g2] z2 |
+[^F2^f2] z2 f2 z2 |
+B2 d2 ^f2 b2 |
+B2 z2 B2 z2 |
+B2 z2 ^c2 z2 |
+d2 z2 ^d2 z2 |
+% Bar 220 (3:39)
+e2 g2 b2 e2 |
+g2 z2 g2 z2 |
+^f2 z2 f2 z2 |
+[^F2^f2] z2 [F2f2] z2 |
+B2 z6 |
+B z3 B z3 |
+B2 z2 ^c2 z2 |
+d2 z2 ^d2 z2 |
+e2 g2 b2 e2 |
+^c2 z2 B2 z2 |
+% Bar 230 (3:49)
+^A2 z2 [G2g2] z2 |
+[^F2^f2] z2 f2 z2 |
+B2 d2 ^f2 b2 |
+B2 z2 B2 z2 |
+B2 z2 ^c2 z2 |
+d2 z2 ^d2 z2 |
+e2 g2 b2 e2 |
+g2 z2 g2 z2 |
+^f2 z2 f2 z2 |
+[^F2^f2] z2 [F2f2] z2 |
+% Bar 240 (3:59)
+B2 z6 |
+G2 d2 g2 d2 |
+g2 z6 |
+[G2g2] z6 |
+[D2d2] z6 |
+d2 d2 d2 d2 |
+d2 d2 d2 d2 |
+d2 d2 d2 d2 |
+g2 z6 |
+G2 d2 g2 d2 |
+% Bar 250 (4:09)
+G2 z6 |
+[G2g2] z6 |
+[D2d2] z6 |
+d2 z2 ^d2 z2 |
+e2 z2 e2 z2 |
+A2 z2 A2 z2 |
+d4 z4 |
+G2 d2 g2 d2 |
+[G2g2] z6 |
+[G2g2] z6 |
+% Bar 260 (4:19)
+[D2d2] z6 |
+d2 z2 d2 z2 |
+d2 z2 d2 z2 |
+d2 z2 d2 z2 |
+g2 z6 |
+G2 d2 g2 d2 |
+[G2g2] z6 |
+[G2g2] z6 |
+[D2d2] z6 |
+d2 z2 ^d2 z2 |
+% Bar 270 (4:29)
+e2 z2 e2 z2 |
+a2 z2 A2 z2 |
+d2 z6 |
++ff+ [^F3^f3] z [F3f3] z |
++f+ [^F^f] z [E2e2] [Dd] z [^C2^c2] |
++pp+ [B,2B2] z2 B2 z2 |
+B2 z2 ^c2 z2 |
+d2 z2 ^d2 z2 |
+e2 g2 b2 e2 |
+^c2 z2 B2 z2 |
+% Bar 280 (4:39)
+^A2 z2 [G2g2] z2 |
+[^F2^f2] z2 [F2f2] z2 |
+B2 d2 ^f2 b2 |
+B2 z2 B2 z2 |
+B2 z2 ^c2 z2 |
+d2 z2 ^d2 z2 |
+e2 g2 b2 e2 |
+g2 z2 g2 z2 |
+^f2 z2 f2 z2 |
+[^F2^f2] z2 [F2f2] z2 |
+% Bar 290 (4:49)
+B2 z4 b2 |
+e2 z4 e2 |
+^f2 z4 f2 |
+^F2 z4 ^f2 |
+B2 z4 b2 |
+e2 z4 e2 |
+^f2 z4 f2 |
+^F2 z4 ^f2 |
+B2 z2 +f+ [B2d2^f2b2] [B2d2f2b2] |
+[e4g4b4] [^c2e2g2b2] [c2e2g2b2] |
+% Bar 300 (4:59)
+[d4^f4b4] [^F2B2d2f2] [F2B2d2f2] |
+[^F2^A2^c2^f2] [F2A2c2f2] [F2A2c2f2] [F2A2c2f2] |
++pp+ [B8-^d8-^f8-] |
+[B3-^d3^f3] B- [B3f3-] f |
+[B4-g4] [B4-^g4] |
+[B4-a4] [B4^a4] |
+[B4b4] [^c2-^g2] [c2-^f2] |
+[^c4-e4-] [c3e3-] e |
+[^d4^f4] [e4^g4] |
+[^f4-b4] [f4^a4] |
+% Bar 310 (5:09)
+B4- [B4^f4] |
+[B4-b4] [B4^f4] |
+[B4-g4] [B4^g4] |
+[B4-a4] [B4-^a4] |
+[B3b3-] b [^c2-^g2] [c2-^f2] |
+[^c4-e4-] [c3e3-] e |
+[^d4^f4] [e4^g4] |
+[^f4-b4] [f4^a4] |
+B4- [B4^f4] |
+B8 |
+% Bar 320 (5:19)
+B4 ^f4 |
+B4- [B4^f4] |
+B4- [B4^f4] |
+[B8^f8] |
+[B8b8] |
+[B8^f8] |
+[B8b8] |
+B- [B^d] z2 [d2^f2b2] [d2f2b2] |
+[^d2^f2b2] z2 b2 b2 |
+b2 z2 [^d2^f2b2] [d2f2b2] |
+% Bar 330 (5:29)
+[^d2^f2b2] z2 b2 b2 |
+b8- |
+b8- |
+b z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 340 (5:39)
+z8 |
+z8 |
+z8 |
+[Ee] z7 |
+e z3 e z3 |
+e z7 |
+e z3 B z3 |
+e z7 |
+e z3 e z3 |
+e z7 |
+% Bar 350 (5:49)
+d6 g z |
+G2 z6 |
+G2 z2 G2 z2 |
+G2 z6 |
+g2 z2 d2 z2 |
+G2 z6 |
+G2 z2 G2 z2 |
+G2 z2 [G2g2] z2 |
+[^F2^f2] z4 B z |
+[B,2B2] z6 |
+% Bar 360 (5:59)
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z2 [B,2B2] z2 |
+[B,2B2] z6 |
+[B,2B2] z6 |
+e2 ^d2 c'2 b2 |
+e2 ^d2 c'2 b2 |
+z8 |
+% Bar 370 (6:09)
++p+ [Bb] z [Aa] z [^G^g] z [^F^f] z |
++pp+ [E2e2] b2 b2 b2 |
+e2 z2 e2 z2 |
+[A2a2] z6 |
+a2 z2 ^a2 z2 |
+b2 z2 b2 z2 |
+b2 z2 b2 z2 |
+e2 z2 B2 z2 |
+e2 z2 +mf+ [B2^d2^f2b2] [B2d2f2b2] |
++pp+ e2 z6 |
+% Bar 380 (6:19)
+e2 z2 e2 z2 |
+[A2a2] z6 |
+a2 z2 ^a2 z2 |
+b2 z2 b2 z2 |
+b2 z2 b2 z2 |
+e2 z2 B2 z2 |
+e2 z2 +f+ [^G2^g2] [G2g2] |
+^c2- [c2-e2] [c2-^g2] [c2^f2] |
+[^c2-e2] [c2^g2] c2 z2 |
+^f2 z2 f2 z2 |
+% Bar 390 (6:29)
+^g2 z2 ^G2 z2 |
+^c2- [c2-e2] [c2-^g2] [c2^f2] |
+[^c2-e2] [c2^g2] c2 z2 |
+^f4 z4 |
+^g2 z2 ^G2 z2 |
+^c2 z2 ^F2 z2 |
+^G2 z2 G2 z2 |
+[^C2^c2] z2 ^F2 z2 |
+^G2 z2 G2 z2 |
+[^C2^c2] z2 +ff+ c4 |
+% Bar 400 (6:39)
++f+ [^C2^c2] z2 +ff+ c4 |
++f+ ^C2 z6 |
+z8 |
+z8 |
+z8 |
++pp+ [E2e2] z6 |
+e2 z2 e2 z2 |
+[A2a2] z6 |
+a2 z2 ^a2 z2 |
+b2 z2 b2 z2 |
+% Bar 410 (6:49)
+b2 z2 b2 z2 |
+e2 z2 B2 z2 |
+e2 z2 +f+ [B^d^fb] z [Bdfb] z |
++pp+ e2 z6 |
+e2 z2 e2 z2 |
+A2 z2 ^G2 z2 |
+A2 z2 B2 z2 |
+^c2 z2 ^d2 z2 |
+e2 z2 ^f2 z2 |
+[^G2^g2] z2 g2 z2 |
+% Bar 420 (6:59)
+A2 z2 ^c2 z2 |
+B2 z2 b2 z2 |
+B2 z2 [a2b2] z2 |
+e2 z2 ^g2 z2 |
+A2 z2 ^c2 z2 |
+B2 z2 b2 z2 |
+B2 z2 [B2b2] z2 |
+e2 b2 ^g2 e2 |
+B2 z2 +p+ [^d2a2b2] z2 |
+e2 z2 [e2^g2b2] z2 |
+% Bar 430 (7:09)
+B2 z2 [^d2a2b2] z2 |
+e2 z2 [e2^g2b2] z2 |
+[^d4^f4a4b4-] [e2^g2b2] z2 |
+[^d4^f4a4b4-] [e2^g2b2] z2 |
+[^d4^f4a4b4-] [e2^g2b2] z2 |
+[^c4-e4-g4-^a4-] [c-e-ga-] [c3-e3-a3-] |
+[^c4-e4-^g4-^a4-] [ceg-a] g3 |
+^a8 |
+^c8 |
+B2 z6 |
+% Bar 440 (7:19)
++pp+ B2 z6 |
+[B2b2] z2 [B2b2] z2 |
+[B2b2] z2 [B2b2] z2 |
+e2 b2 ^g2 e2 |
+B2 z2 +p+ [^d2a2b2] z2 |
+e2 z2 [e2^g2b2] z2 |
+B2 z2 [^d2a2b2] z2 |
+e2 z2 [e2^g2b2] z2 |
+[^d4^f4a4b4-] [e2^g2b2] z2 |
+[^d4^f4a4b4-] [e2^g2b2] z2 |
+% Bar 450 (7:29)
+[^d4^f4a4b4-] [e2^g2b2] z2 |
+[^c4-e4-g4-^a4-] [c-e-ga-] [c3-e3-a3-] |
+[^c4-e4-^g4-^a4-] [ceg-a] g3 |
+^a8 |
+^c8 |
+B2 z6 |
++pp+ B2 z6 |
+[B2b2] z2 [B2b2] z2 |
+[B2b2] z2 [B2b2] z2 |
+e2 z6 |
+% Bar 460 (7:39)
+B z b2 ^c2 ^d2 |
+e2 z6 |
+B z b2 ^c2 ^d2 |
+e2 z6 |
++p+ e8 |
+e8 |
+e8 |
+[e8b8-] |
++pp+ [e8b8] |
+e- [eb] z6 |
+% Bar 470 (7:49)
+[e2^g2b2] z6 |
++ff+ [e3^g3b3] z e3 z |
++f+ e z e z e z e z |
++ff+ e3 z [E3e3] z |
++f+ [E2e2] [E2e2] [E2e2] [E2e2] |
+[E4e4] z4 |
+[B4^d4^f4b4] z4 |
+B [^GA] [E-^F] E z4 |]
+
+
+X: 9
+T: The Dance of the Goblins (7:57) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+C: Antonio Bazzini
+M: 2/4
+Q: 192
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+% Bar 10 (0:09)
+B z e z ^d2 b z |
+e ^f g a b z c' z |
++f+ d2 +ff+ e2 +fff+ ^f2 g2 |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+d z g z ^f z d z |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+% Bar 20 (0:19)
+^f2 ^g2 ^a2 b2 |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+e z ^d z c z B z |
+% Bar 30 (0:29)
+e z ^d z c z B z |
+e z ^d z B z c z |
+B z A z G z ^F z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z e z |
+% Bar 40 (0:39)
+b z e z b z e z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+A z G z ^F z E z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+A z G z ^F z E z |
+c z B z a g ^f e |
+% Bar 50 (0:49)
+c z B z a g ^f e |
+c z B z b a g ^f |
+a z g z a g ^f e |
+d z c z d c B A |
+A G ^F E c B A G |
+e ^d c B b a g ^f |
+a g ^f e e d c' b |
+d c' b a b a g ^f |
+a g ^f e d c B A |
++ff+ G B e g b z [^F^d] z |
+% Bar 60 (0:59)
++fff+ [E4e4] z4 |
+z8 |
+z8 |
+z8 |
++f+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G [AB] ^c |
+d [ef] [ga] [^cb] d2 d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+% Bar 70 (1:09)
+c' e c' e [e2c'2] [eg] z |
+[e2g2] z6 |
++mp+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G +mf+ [AB] ^c |
+d [ef] +f+ [ga] [^cb] d2 +ff+ d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[ec'] [eg] [ec'] [eg] [e2c'2] [eg] z |
+[e2c'2] z6 |
+% Bar 80 (1:19)
++f+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G [AB] ^c |
+d [ef] [ga] [^cb] d2 d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+c' e c' e [e2c'2] [eg] z |
+[e2g2] z6 |
++mp+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+% Bar 90 (1:29)
+D2 D E F G +mf+ [AB] ^c |
+d [ef] +f+ [ga] [^cb] d2 +ff+ d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[ec'] [eg] [ec'] [eg] [e2c'2] [eg] z |
+[e2c'2] z6 |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [db] [Bg] b [Bg] |
+% Bar 100 (1:39)
+[db] [Bg] [db] [Bg] [ca] [A^f] [ca] [Af] |
+[ca] [A^f] [ca] [Af] [Bg] [Ge] [Bg] [Ge] |
+[Bg] [Ge] [Bg] [Ge] [A^f] [^F^d] [Af] [Fd] |
+[EB] z [GB] z [Be] z3 |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [Be] [Gd] [Be] [Gd] |
+[Gd] [Ec] [Gd] [Ec] [Gd] [Ec] [Gd] [Ec] |
+[Gc] [DB] [Gc] [DB] [Gc] [DB] [Gc] [DB] |
+% Bar 110 (1:49)
+[^FB] [DA] [FB] [DA] [FB] [DA] [FB] [DA] |
+G,2 [D2B2] [B2g2] z2 |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [Be] [Gd] [Be] [Gd] |
+[Gd] [E^c] [Gd] [Ec] [Gd] [Ec] [Gd] [Ec] |
+[^F^c] [DB] [Fc] [DB] [Fc] [DB] [Fc] [DB] |
+[EB] [^C^A] [EB] [CA] [EB] [CA] [EB] [CA] |
+B,2 [^F2d2] [d2b2] z2 |
+% Bar 120 (1:59)
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [Be] [Gd] [Be] [Gd] |
+[Gd] [Ec] [Gd] [Ec] [Gd] [Ec] [Gd] [Ec] |
+[Gc] [DB] [Gc] [DB] [Gc] [DB] [Gc] [DB] |
+[^FB] [DA] [FB] [DA] [FB] [DA] [FB] [DA] |
+G, z [DBg] z G, z [DBg] z |
+G, z [^Dca] z G, z [E^c^a] z |
+G, z [Fdb] z5 |
+% Bar 130 (2:09)
+z8 |
++ppp+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F +pp+ G [AB] ^c |
+d [ef] +p+ [ga] [^cb] d2 d z |
++mp+ [eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+c' e c' e [e2c'2] [eg] z |
+[e2g2] z6 |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+% Bar 140 (2:19)
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G [AB] ^c |
+d [ef] [ga] [^cb] d2 d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[ec'] [eg] [ec'] [eg] [e2c'2] [eg] z |
+[ec'] z7 |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+% Bar 150 (2:29)
+b z e z ^d z b z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+d2 +f+ e2 +ff+ ^f2 +fff+ g2 |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+d z g z ^f z d z |
+G, A, B, C D z E z |
+% Bar 160 (2:39)
+D z G z ^F z d z |
+G A B c d z e z |
+^f2 ^g2 ^a2 b2 |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+% Bar 170 (2:49)
+e z ^d z c z B z |
+e z ^d z c z B z |
+e z ^d z c z B z |
+e z ^d z B z c z |
+B z A z G z ^F z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+% Bar 180 (2:59)
+B z e z ^d2 b z |
+e ^f g a b z e z |
+b z e z b z e z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+A z G z ^F z E z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+% Bar 190 (3:09)
+A z G z ^F z E z |
+c z B z a g ^f e |
+c z B z a g ^f e |
+c z B z b a g ^f |
+a z g z a g ^f e |
+d z c z d c B A |
+A G ^F E c B A G |
+e ^d c B b a g ^f |
+a g ^f e e d c' b |
+d c' b a b a g ^f |
+% Bar 200 (3:19)
+a g ^f e d c B A |
+G B e g b2 [^F2^d2] |
+[E4e4] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^f4 f4 |
+% Bar 210 (3:29)
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+e4 e2 e2 |
+d2 e [^cd] ^f2 f2 |
+^f2 f [de] [B-^c] B z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+% Bar 220 (3:39)
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+^f [d-e] d2 f2 f2 |
+e [^c-d] c2 ^f2 f2 |
+B2 B,2 b2 z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+% Bar 230 (3:49)
+e4 e2 e2 |
+d2 e [^cd] ^f2 f2 |
+^f2 f [de] [B-^c] B z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+^f [d-e] d2 f2 f2 |
+e [^c-d] c2 ^f2 f2 |
+% Bar 240 (3:59)
+B2 B,2 b2 z2 |
+d4 b4 |
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+B z A z D z3 |
+[^f4a4] [g4^a4] |
+[g2^a2] [^g2b2] [g2b2] [=a2c'2] |
+[a2c'2] [d2b2] [d2b2] [e2c'2] |
+[e2c'2] [d2b2] [g2b2] z2 |
+d4 b4 |
+% Bar 250 (4:09)
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+B z A z D z3 |
+[^f4a4] [a4c'4] |
+[a2c'2] [g2b2] [g2b2] [^f2a2] |
+[^f2a2] [=f2^g2] [f2g2] [e2=g2] |
+[e2g2] [d2^f2] [d2f2] z2 |
+d4 b4 |
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+% Bar 260 (4:19)
+B z A z D z3 |
+[^f4a4] [g4^a4] |
+[g2^a2] [^g2b2] [g2b2] [=a2c'2] |
+[a2c'2] [d2b2] [d2b2] [e2c'2] |
+[e2c'2] [d2b2] [g2b2] z2 |
+d4 b4 |
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+B z A z D z3 |
+[^f4a4] [a4c'4] |
+% Bar 270 (4:29)
+[a2c'2] [g2b2] [g2b2] [^f2a2] |
+[^f2a2] [=f2^g2] [f2g2] [e2=g2] |
+[e2g2] [d2^f2] [d2f2] z2 |
+z8 |
+z8 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+% Bar 280 (4:39)
+e4 e2 e2 |
+d2 e [^cd] ^f2 f2 |
+^f2 f [de] [B-^c] B z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+^f [d-e] d2 f2 f2 |
+e [^c-d] c2 ^f2 f2 |
+% Bar 290 (4:49)
+B4 b2 ^f2 |
+g [e-^f] e2 g2 e2 |
+^f [d-e] d2 f2 d2 |
+e [^c-d] c2 e2 c2 |
+d [B-^c] B2 b b ^f2 |
+g [e-^f] e2 g2 e2 |
+^f [d-e] d2 f2 d2 |
+e [^c-d] c2 e2 c2 |
+d [B-^c] B2 b2 ^f2 |
+g [e-^f] e2 g2 e2 |
+% Bar 300 (4:59)
+^f [d-e] d2 f2 d2 |
+^f2 e2 d2 ^c2 |
+B4 +mp+ b2 ^c2 |
+^d [^cb-] b2 b2 b2 |
+^a2 a2 ^g2 g2 |
+^f2 f2 e2 e2 |
+^d2 d2 e2 ^f2 |
+^g [e-^f] e2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 +ff+ ^F2 E2 |
+% Bar 310 (5:09)
+^D [B,-^C] B,2 b2 ^c2 |
+^d [^cb-] b2 b2 b2 |
+^a2 a2 ^g2 g2 |
+^f2 f2 e2 e2 |
+^d2 d2 e2 ^f2 |
+^g [e-^f] e2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 ^F2 E2 |
+^D [B,-^C] B,2 ^d2 d2 |
+^f2 f2 ^F2 E2 |
+% Bar 320 (5:19)
+^D [B,-^C] B,2 ^d2 d2 |
+^f2 f2 ^F2 E2 |
+^D [B,-^C] B,2 B2 ^c2 |
+^d [B-^c] B2 b2 c2 |
+^d [^cb-] b2 b2 c2 |
+^d [^cb-] b2 b2 d2 |
+b [^d^f] z6 |
+z4 b2 ^d2 |
+b [^d^f] z6 |
+z2 b2 ^d2 ^f2 |
+% Bar 330 (5:29)
+b b b b b b b b |
+b b b b b b b b |
+b ^a =a ^g =g ^f =f e |
+^d =d ^c c' b ^a =a ^g |
+g ^f =f e ^d =d ^c c' |
+b ^a =a ^g =g ^f =f e |
+^d =d ^c =c B B B B |
+B B B B B B B B |
+^A B B B B B B B |
+A B B B B B B B |
+% Bar 340 (5:39)
+G B B B B B B B |
+^F B B B B B B B |
+z8 |
++mp+ E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+% Bar 350 (5:49)
+d2 +mf+ e2 +f+ ^f2 +ff+ g2 |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+d z g z ^f z d z |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
++fff+ ^f2 ^g2 ^a2 b2 |
++ff+ c' d c' b ^a z =a z |
+% Bar 360 (5:59)
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+e z ^d z c z B z |
+e2 ^d2 c2 B2 |
++fff+ e2 +ff+ ^d2 B2 ^c2 |
+% Bar 370 (6:09)
+B2 A2 ^G2 ^F2 |
+E ^F ^G A B2 ^c2 |
+B2 e2 ^g2 b2 |
+^d2 ^c2 d2 c2 |
+^f2 f2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 A2 a2 |
+^G2 ^g2 ^F2 ^f2 |
+E2 e2 B,2 [^F2^d2b2] |
+E ^F ^G A B2 ^c2 |
+% Bar 380 (6:19)
+B2 e2 ^g2 b2 |
+^d2 ^c2 d2 c2 |
+^f2 f2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 A2 a2 |
+^G2 ^g2 ^F2 ^f2 |
+E2 e2 ^G,2 [^D2c2^g2] |
+^C ^D E ^F ^G2 ^g2 |
+^c ^d e ^f ^g2 g2 |
+a ^g ^f2 a g f2 |
+% Bar 390 (6:29)
+^g ^f e2 f e ^d2 |
+^C ^D E ^F ^G2 ^g2 |
+^c ^d e ^f ^g2 g2 |
+a ^g ^f2 a g f2 |
+^g ^f e2 f e ^d2 |
+e ^d ^c2 a ^g ^f2 |
+^g ^f e2 f e ^d2 |
+e ^d ^c2 ^G A G ^F |
+^F ^G F E E F E ^D |
+^D E D ^C E ^F E D |
+% Bar 400 (6:39)
+^D E D ^C E ^F E D |
+^D E D ^C D E D C |
+^d e d ^c d e d c |
+^c ^d c B B c B A |
+A B A ^G G A G ^F |
+E ^F ^G A B2 ^c2 |
+B2 e2 ^g2 b2 |
+^d2 ^c2 d2 c2 |
+^f2 f2 e2 e2 |
+^d2 d2 ^c2 c2 |
+% Bar 410 (6:49)
+B2 b2 A2 a2 |
+^G2 ^g2 ^F2 ^f2 |
+E2 e2 B,2 [^F2^d2] |
+E ^F ^G A B2 ^c2 |
+B2 e2 ^g2 b2 |
+^d2 ^c2 =c2 ^c2 |
+^d2 ^c2 e2 d2 |
+^f2 e2 ^g2 f2 |
+a2 ^g2 b2 a2 |
+^c2 b2 c2 b2 |
+% Bar 420 (6:59)
+a ^c ^f a b2 a2 |
+^g b e g a2 g2 |
+^f a ^d f ^g2 f2 |
+e2 ^g2 g ^c b2 |
+a ^c ^f a b2 a2 |
+^g b e g a2 g2 |
+^f2 f2 b2 b2 |
+e2 z2 e2 ^g2 |
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+% Bar 430 (7:09)
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+b a ^g ^f e ^d ^c B |
+b a ^g ^f e ^d ^c B |
+b a ^g ^f e ^d ^c B |
+^A2 z2 [A2g2] [^c2^a2] |
+[^c2e2] [e2g2] [g2^a2] [c2a2] |
+[^c4e4] z4 |
+e8 |
+B,2 z2 b2 ^c2 |
+% Bar 440 (7:19)
+^d2 e2 ^f2 ^g2 |
+a4 ^a4 |
+b4 ^d4 |
+e2 z2 e2 ^g2 |
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+b a ^g ^f e ^d ^c B |
+b a ^g ^f e ^d ^c B |
+% Bar 450 (7:29)
+b a ^g ^f e ^d ^c B |
+^A2 z2 [A2g2] [^c2^a2] |
+[^c2e2] [e2g2] [g2^a2] [c2a2] |
+[^c4e4] z4 |
+e8 |
+B,2 z2 b2 ^c2 |
+^d2 e2 ^f2 ^g2 |
+a4 ^a4 |
+b4 ^d4 |
+e2 z2 e2 ^g2 |
+% Bar 460 (7:39)
+b2 b2 b2 b2 |
+b2 a [^f^g] e2 g2 |
+b2 b2 b2 b2 |
+b a ^g ^f e2 g2 |
+b a ^g ^f e2 g2 |
+b a ^g ^f e2 g2 |
+b a ^g ^f e2 g2 |
+b z ^g z e z g z |
+b z ^g z b z e z |
+^g2 g2 g2 g2 |
+% Bar 470 (7:49)
+b2 b2 b2 b2 |
+e4 e4 |
+e z e z e z e z |
++fff+ e4 E4 |
++ff+ E2 E2 E2 E2 |
+E4 z4 |
+[B,4^F4^d4b4] z4 |
+B [^GA] [E-^F] E z4 |]
+
+
+X: 19
+T: The Dance of the Goblins (7:57) - Basic Fiddle
+%%part-name Basic Fiddle
+C: Antonio Bazzini
+M: 2/4
+Q: 192
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+% Bar 10 (0:09)
+B z e z ^d2 b z |
+e ^f g a b z c' z |
++f+ d2 +ff+ e2 +fff+ ^f2 g2 |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+d z g z ^f z d z |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+% Bar 20 (0:19)
+^f2 ^g2 ^a2 b2 |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+e z ^d z c z B z |
+% Bar 30 (0:29)
+e z ^d z c z B z |
+e z ^d z B z c z |
+B z A z G z ^F z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z e z |
+% Bar 40 (0:39)
+b z e z b z e z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+A z G z ^F z E z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+A z G z ^F z E z |
+c z B z a g ^f e |
+% Bar 50 (0:49)
+c z B z a g ^f e |
+c z B z b a g ^f |
+a z g z a g ^f e |
+d z c z d c B A |
+A G ^F E c B A G |
+e ^d c B b a g ^f |
+a g ^f e e d c' b |
+d c' b a b a g ^f |
+a g ^f e d c B A |
++ff+ G B e g b z [^F^d] z |
+% Bar 60 (0:59)
++fff+ [E4e4] z4 |
+z8 |
+z8 |
+z8 |
++f+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G [AB] ^c |
+d [ef] [ga] [^cb] d2 d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+% Bar 70 (1:09)
+c' e c' e [e2c'2] [eg] z |
+[e2g2] z6 |
++mp+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G +mf+ [AB] ^c |
+d [ef] +f+ [ga] [^cb] d2 +ff+ d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[ec'] [eg] [ec'] [eg] [e2c'2] [eg] z |
+[e2c'2] z6 |
+% Bar 80 (1:19)
++f+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G [AB] ^c |
+d [ef] [ga] [^cb] d2 d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+c' e c' e [e2c'2] [eg] z |
+[e2g2] z6 |
++mp+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+% Bar 90 (1:29)
+D2 D E F G +mf+ [AB] ^c |
+d [ef] +f+ [ga] [^cb] d2 +ff+ d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[ec'] [eg] [ec'] [eg] [e2c'2] [eg] z |
+[e2c'2] z6 |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [db] [Bg] b [Bg] |
+% Bar 100 (1:39)
+[db] [Bg] [db] [Bg] [ca] [A^f] [ca] [Af] |
+[ca] [A^f] [ca] [Af] [Bg] [Ge] [Bg] [Ge] |
+[Bg] [Ge] [Bg] [Ge] [A^f] [^F^d] [Af] [Fd] |
+[EB] z [GB] z [Be] z3 |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [Be] [Gd] [Be] [Gd] |
+[Gd] [Ec] [Gd] [Ec] [Gd] [Ec] [Gd] [Ec] |
+[Gc] [DB] [Gc] [DB] [Gc] [DB] [Gc] [DB] |
+% Bar 110 (1:49)
+[^FB] [DA] [FB] [DA] [FB] [DA] [FB] [DA] |
+G,2 [D2B2] [B2g2] z2 |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [Be] [Gd] [Be] [Gd] |
+[Gd] [E^c] [Gd] [Ec] [Gd] [Ec] [Gd] [Ec] |
+[^F^c] [DB] [Fc] [DB] [Fc] [DB] [Fc] [DB] |
+[EB] [^C^A] [EB] [CA] [EB] [CA] [EB] [CA] |
+B,2 [^F2d2] [d2b2] z2 |
+% Bar 120 (1:59)
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [^A^f] [Ge] [Af] [Ge] |
+[Be] [Gd] [Be] [Gd] [Be] [Gd] [Be] [Gd] |
+[Gd] [Ec] [Gd] [Ec] [Gd] [Ec] [Gd] [Ec] |
+[Gc] [DB] [Gc] [DB] [Gc] [DB] [Gc] [DB] |
+[^FB] [DA] [FB] [DA] [FB] [DA] [FB] [DA] |
+G, z [DBg] z G, z [DBg] z |
+G, z [^Dca] z G, z [E^c^a] z |
+G, z [Fdb] z5 |
+% Bar 130 (2:09)
+z8 |
++ppp+ [CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F +pp+ G [AB] ^c |
+d [ef] +p+ [ga] [^cb] d2 d z |
++mp+ [eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+c' e c' e [e2c'2] [eg] z |
+[e2g2] z6 |
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+% Bar 140 (2:19)
+[CF] [G,E] [CF] [G,E] [CF] [G,E] [CF] [G,E] |
+D2 D E F G [AB] ^c |
+d [ef] [ga] [^cb] d2 d z |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[eb] [dg] [eb] [dg] [eb] [dg] [eb] [dg] |
+[ec'] [eg] [ec'] [eg] [e2c'2] [eg] z |
+[ec'] z7 |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+% Bar 150 (2:29)
+b z e z ^d z b z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+d2 +f+ e2 +ff+ ^f2 +fff+ g2 |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+d z g z ^f z d z |
+G, A, B, C D z E z |
+% Bar 160 (2:39)
+D z G z ^F z d z |
+G A B c d z e z |
+^f2 ^g2 ^a2 b2 |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+% Bar 170 (2:49)
+e z ^d z c z B z |
+e z ^d z c z B z |
+e z ^d z c z B z |
+e z ^d z B z c z |
+B z A z G z ^F z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+% Bar 180 (2:59)
+B z e z ^d2 b z |
+e ^f g a b z e z |
+b z e z b z e z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+A z G z ^F z E z |
+f g f e ^d z =d z |
+^c z =c z B z A z |
+^G A B c B z ^A z |
+% Bar 190 (3:09)
+A z G z ^F z E z |
+c z B z a g ^f e |
+c z B z a g ^f e |
+c z B z b a g ^f |
+a z g z a g ^f e |
+d z c z d c B A |
+A G ^F E c B A G |
+e ^d c B b a g ^f |
+a g ^f e e d c' b |
+d c' b a b a g ^f |
+% Bar 200 (3:19)
+a g ^f e d c B A |
+G B e g b2 [^F2^d2] |
+[E4e4] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^f4 f4 |
+% Bar 210 (3:29)
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+e4 e2 e2 |
+d2 e [^cd] ^f2 f2 |
+^f2 f [de] [B-^c] B z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+% Bar 220 (3:39)
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+^f [d-e] d2 f2 f2 |
+e [^c-d] c2 ^f2 f2 |
+B2 B,2 b2 z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+% Bar 230 (3:49)
+e4 e2 e2 |
+d2 e [^cd] ^f2 f2 |
+^f2 f [de] [B-^c] B z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+^f [d-e] d2 f2 f2 |
+e [^c-d] c2 ^f2 f2 |
+% Bar 240 (3:59)
+B2 B,2 b2 z2 |
+d4 b4 |
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+B z A z D z3 |
+[^f4a4] [g4^a4] |
+[g2^a2] [^g2b2] [g2b2] [=a2c'2] |
+[a2c'2] [d2b2] [d2b2] [e2c'2] |
+[e2c'2] [d2b2] [g2b2] z2 |
+d4 b4 |
+% Bar 250 (4:09)
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+B z A z D z3 |
+[^f4a4] [a4c'4] |
+[a2c'2] [g2b2] [g2b2] [^f2a2] |
+[^f2a2] [=f2^g2] [f2g2] [e2=g2] |
+[e2g2] [d2^f2] [d2f2] z2 |
+d4 b4 |
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+% Bar 260 (4:19)
+B z A z D z3 |
+[^f4a4] [g4^a4] |
+[g2^a2] [^g2b2] [g2b2] [=a2c'2] |
+[a2c'2] [d2b2] [d2b2] [e2c'2] |
+[e2c'2] [d2b2] [g2b2] z2 |
+d4 b4 |
+b2 ^f2 g2 d2 |
+e2 B2 c2 ^G2 |
+B z A z D z3 |
+[^f4a4] [a4c'4] |
+% Bar 270 (4:29)
+[a2c'2] [g2b2] [g2b2] [^f2a2] |
+[^f2a2] [=f2^g2] [f2g2] [e2=g2] |
+[e2g2] [d2^f2] [d2f2] z2 |
+z8 |
+z8 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+% Bar 280 (4:39)
+e4 e2 e2 |
+d2 e [^cd] ^f2 f2 |
+^f2 f [de] [B-^c] B z2 |
+^f4 f4 |
+^f4 f2 f2 |
+g2 a [^fg] b2 b2 |
+b2 b [ga] [e-^f] e z2 |
+e4 e4 |
+^f [d-e] d2 f2 f2 |
+e [^c-d] c2 ^f2 f2 |
+% Bar 290 (4:49)
+B4 b2 ^f2 |
+g [e-^f] e2 g2 e2 |
+^f [d-e] d2 f2 d2 |
+e [^c-d] c2 e2 c2 |
+d [B-^c] B2 b b ^f2 |
+g [e-^f] e2 g2 e2 |
+^f [d-e] d2 f2 d2 |
+e [^c-d] c2 e2 c2 |
+d [B-^c] B2 b2 ^f2 |
+g [e-^f] e2 g2 e2 |
+% Bar 300 (4:59)
+^f [d-e] d2 f2 d2 |
+^f2 e2 d2 ^c2 |
+B4 +mp+ b2 ^c2 |
+^d [^cb-] b2 b2 b2 |
+^a2 a2 ^g2 g2 |
+^f2 f2 e2 e2 |
+^d2 d2 e2 ^f2 |
+^g [e-^f] e2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 +ff+ ^F2 E2 |
+% Bar 310 (5:09)
+^D [B,-^C] B,2 b2 ^c2 |
+^d [^cb-] b2 b2 b2 |
+^a2 a2 ^g2 g2 |
+^f2 f2 e2 e2 |
+^d2 d2 e2 ^f2 |
+^g [e-^f] e2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 ^F2 E2 |
+^D [B,-^C] B,2 ^d2 d2 |
+^f2 f2 ^F2 E2 |
+% Bar 320 (5:19)
+^D [B,-^C] B,2 ^d2 d2 |
+^f2 f2 ^F2 E2 |
+^D [B,-^C] B,2 B2 ^c2 |
+^d [B-^c] B2 b2 c2 |
+^d [^cb-] b2 b2 c2 |
+^d [^cb-] b2 b2 d2 |
+b [^d^f] z6 |
+z4 b2 ^d2 |
+b [^d^f] z6 |
+z2 b2 ^d2 ^f2 |
+% Bar 330 (5:29)
+b b b b b b b b |
+b b b b b b b b |
+b ^a =a ^g =g ^f =f e |
+^d =d ^c c' b ^a =a ^g |
+g ^f =f e ^d =d ^c c' |
+b ^a =a ^g =g ^f =f e |
+^d =d ^c =c B B B B |
+B B B B B B B B |
+^A B B B B B B B |
+A B B B B B B B |
+% Bar 340 (5:39)
+G B B B B B B B |
+^F B B B B B B B |
+z8 |
++mp+ E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+b z e z ^d z b z |
+E ^F G A B z c z |
+B z e z ^d2 b z |
+e ^f g a b z c' z |
+% Bar 350 (5:49)
+d2 +mf+ e2 +f+ ^f2 +ff+ g2 |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
+d z g z ^f z d z |
+G, A, B, C D z E z |
+D z G z ^F z d z |
+G A B c d z e z |
++fff+ ^f2 ^g2 ^a2 b2 |
++ff+ c' d c' b ^a z =a z |
+% Bar 360 (5:59)
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+c' d c' b ^a z =a z |
+^g z =g z ^f z e z |
+^d e ^f g f z =f z |
+e z ^d z c z B z |
+e z ^d z c z B z |
+e2 ^d2 c2 B2 |
++fff+ e2 +ff+ ^d2 B2 ^c2 |
+% Bar 370 (6:09)
+B2 A2 ^G2 ^F2 |
+E ^F ^G A B2 ^c2 |
+B2 e2 ^g2 b2 |
+^d2 ^c2 d2 c2 |
+^f2 f2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 A2 a2 |
+^G2 ^g2 ^F2 ^f2 |
+E2 e2 B,2 [^F2^d2b2] |
+E ^F ^G A B2 ^c2 |
+% Bar 380 (6:19)
+B2 e2 ^g2 b2 |
+^d2 ^c2 d2 c2 |
+^f2 f2 e2 e2 |
+^d2 d2 ^c2 c2 |
+B2 b2 A2 a2 |
+^G2 ^g2 ^F2 ^f2 |
+E2 e2 ^G,2 [^D2c2^g2] |
+^C ^D E ^F ^G2 ^g2 |
+^c ^d e ^f ^g2 g2 |
+a ^g ^f2 a g f2 |
+% Bar 390 (6:29)
+^g ^f e2 f e ^d2 |
+^C ^D E ^F ^G2 ^g2 |
+^c ^d e ^f ^g2 g2 |
+a ^g ^f2 a g f2 |
+^g ^f e2 f e ^d2 |
+e ^d ^c2 a ^g ^f2 |
+^g ^f e2 f e ^d2 |
+e ^d ^c2 ^G A G ^F |
+^F ^G F E E F E ^D |
+^D E D ^C E ^F E D |
+% Bar 400 (6:39)
+^D E D ^C E ^F E D |
+^D E D ^C D E D C |
+^d e d ^c d e d c |
+^c ^d c B B c B A |
+A B A ^G G A G ^F |
+E ^F ^G A B2 ^c2 |
+B2 e2 ^g2 b2 |
+^d2 ^c2 d2 c2 |
+^f2 f2 e2 e2 |
+^d2 d2 ^c2 c2 |
+% Bar 410 (6:49)
+B2 b2 A2 a2 |
+^G2 ^g2 ^F2 ^f2 |
+E2 e2 B,2 [^F2^d2] |
+E ^F ^G A B2 ^c2 |
+B2 e2 ^g2 b2 |
+^d2 ^c2 =c2 ^c2 |
+^d2 ^c2 e2 d2 |
+^f2 e2 ^g2 f2 |
+a2 ^g2 b2 a2 |
+^c2 b2 c2 b2 |
+% Bar 420 (6:59)
+a ^c ^f a b2 a2 |
+^g b e g a2 g2 |
+^f a ^d f ^g2 f2 |
+e2 ^g2 g ^c b2 |
+a ^c ^f a b2 a2 |
+^g b e g a2 g2 |
+^f2 f2 b2 b2 |
+e2 z2 e2 ^g2 |
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+% Bar 430 (7:09)
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+b a ^g ^f e ^d ^c B |
+b a ^g ^f e ^d ^c B |
+b a ^g ^f e ^d ^c B |
+^A2 z2 [A2g2] [^c2^a2] |
+[^c2e2] [e2g2] [g2^a2] [c2a2] |
+[^c4e4] z4 |
+e8 |
+B,2 z2 b2 ^c2 |
+% Bar 440 (7:19)
+^d2 e2 ^f2 ^g2 |
+a4 ^a4 |
+b4 ^d4 |
+e2 z2 e2 ^g2 |
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+b a ^g ^f e ^d ^c B |
+e ^d ^c B A ^G ^F E |
+b a ^g ^f e ^d ^c B |
+b a ^g ^f e ^d ^c B |
+% Bar 450 (7:29)
+b a ^g ^f e ^d ^c B |
+^A2 z2 [A2g2] [^c2^a2] |
+[^c2e2] [e2g2] [g2^a2] [c2a2] |
+[^c4e4] z4 |
+e8 |
+B,2 z2 b2 ^c2 |
+^d2 e2 ^f2 ^g2 |
+a4 ^a4 |
+b4 ^d4 |
+e2 z2 e2 ^g2 |
+% Bar 460 (7:39)
+b2 b2 b2 b2 |
+b2 a [^f^g] e2 g2 |
+b2 b2 b2 b2 |
+b a ^g ^f e2 g2 |
+b a ^g ^f e2 g2 |
+b a ^g ^f e2 g2 |
+b a ^g ^f e2 g2 |
+b z ^g z e z g z |
+b z ^g z b z e z |
+^g2 g2 g2 g2 |
+% Bar 470 (7:49)
+b2 b2 b2 b2 |
+e4 e4 |
+e z e z e z e z |
++fff+ e4 E4 |
++ff+ E2 E2 E2 E2 |
+E4 z4 |
+[B,4^F4^d4b4] z4 |
+B [^GA] [E-^F] E z4 |]
+
