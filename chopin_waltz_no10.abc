@@ -1,0 +1,221 @@
+%abc-2.1
+%%song-title       Walz No. 10
+%%song-composer    Chopin
+%%song-duration    3:30
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 9
+T: Walz No. 10 (3:30) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+C: Chopin
+M: 3/4
+Q: 152
+K: C maj
+
+%%Q: 120
++mp+ z76/15
+	%%Q: 152
+	^f2- |
++p+ [B,-^f] +mp+ [B,g] +mf+ [^F,-B,-D-f] +p+ [F,B,D^c] +mp+ [F,-B,-D-d] [F,B,DB] |
++p+ [^C,2^A2-] +mf+ [^F,2^A,2E2A2] [F,2A,2E2^f2-] |
++p+ [^A,-^f] +f+ [A,g] +mp+ [^F,-^C-E-f] +p+ [F,CE^c] +mp+ [F,-C-E-e] [F,CEd] |
+[B,2B2-] +mf+ [^F,2B,2D2B2] [F,2B,2D2^f2-] |
++p+ [B,-^f] +mp+ [B,g] +mf+ [^F,-B,-D-=f] +mp+ [F,B,D^f] [F,-B,-D-b] +mf+ [F,B,Dd] |
++ff+ [B,-d] B, +mf+ [^G,2B,2D2f2] +f+ [G,2B,2D2d2-] |
++mp+ [B,2d2] +mf+ [G,2B,2E2e2] [G,2B,2E2^c2-] |
++mp+ [B,-^c] [B,b] +mf+ [^F,-^C-E-^a] +mp+ [F,CEg] [F,-^A,-E-^f] +p+ [F,A,Ec] |
+% Bar 10 (0:10)
++mp+ [B,-d] +mf+ [B,g] [^F,-B,-D-^f] +p+ [F,B,D^c] +mp+ [F,-B,-D-d] [F,B,DB] |
++p+ [^C,2^A2-] +mf+ [^F,2^A,2E2A2] [F,2A,2E2^f2-] |
++p+ [^F,-^f] +mp+ [F,g] +mf+ [F,-^A,-E-f] +p+ [F,A,E^c] +mp+ [F,-A,-E-e] [F,A,Ed] |
+[B,2B2-] +mf+ [^F,2B,2D2B2] +f+ [F,2B,2D2^f2-] |
++mp+ [D,-^f] +f+ [D,f] [^F,-B,-D-^c] +mf+ [F,B,Dd] [F,-B,-D-^a] +f+ [F,B,Db] |
+[E,-a] +mf+ [E,g] +fff+ [B,-^C-G-B] +mf+ [B,CG^c] +f+ d e |
++ff+ [^F,-g] +f+ [F,-^f] +mf+ [F,-B,-D-B] +f+ [F,-B,Dd] [F,-^A,-E-^c] +mp+ [F,A,E^F] |
++f+ [B,-D-B] +mp+ [B,DF] +mf+ [B,-^F] [B,^A] +mp+ B ^c |
+[B,-d] [B,g] +mf+ [^F,-B,-D-^f] +mp+ [F,B,D^c] [F,-B,-D-d] [F,B,DB] |
+[^C,2^A2-] +mf+ [^F,2^A,2E2A2] [F,2A,2E2^f2-] |
+% Bar 20 (0:22)
++p+ [^A,-^f] +f+ [A,g] +mf+ [^F,-^C-E-f] +p+ [F,CE^c] +mp+ [F,-C-E-e] +p+ [F,CEd] |
+[B,2B2-] +mf+ [^F,2B,2D2B2] [F,2B,2D2^f2-] |
++p+ [B,-^f] +mp+ [B,g] +mf+ [^F,-B,-D-=f] +mp+ [F,B,D^f] +mf+ [F,-B,-D-b] [F,B,Dd] |
++ff+ [B,-d] B, +f+ [^G,2B,2D2f2] [G,2B,2D2d2-] |
++mp+ [B,2d2] +mf+ [G,2B,2E2e2] [G,2B,2E2^c2-] |
++mp+ [B,-^c] [B,b] +f+ [^F,-^C-E-^a] +mp+ [F,CEg] [F,-^A,-E-^f] [F,A,Ec] |
+[B,-d] [B,g] +mf+ [^F,-B,-D-^f] +p+ [F,B,D^c] +mp+ [F,-B,-D-d] +p+ [F,B,DB] |
++mp+ [^C,2^A2-] +mf+ [^F,2^A,2E2A2] +mp+ [F,2A,2E2^f2-] |
+[^F,-^f] [F,g] +f+ [F,-^A,-E-f] +mp+ [F,A,E^c] +mf+ [F,-A,-E-e] [F,A,Ed] |
+[B,2B2-] +ff+ [^F,2B,2D2B2] [F,2B,2D2^f2-] |
+% Bar 30 (0:34)
++mf+ [D,-^f] +fff+ [D,f] [^F,-B,-D-^c] +f+ [F,B,Dd] [F,-B,-D-^a] [F,B,Db] |
+[E,-a] +mf+ [E,g]
+	%%Q: 128
+	+ff+ [G,19/16-^C19/16-B19/16]
+	%%Q: 120
+	+mf+ [G,19/15C19/15^c19/15]
+	%%Q: 110
+	+f+ d76/55 +ff+ e76/55 |
+[^F,76/55-g76/55] +mf+ [F,76/55-^f76/55] [F,76/55-B,76/55-D76/55-B76/55] [F,76/55-B,76/55D76/55d76/55] +ff+ [F,76/55-^A,76/55-E76/55-^c76/55] +p+
+	[F,76/55A,76/55E76/55^F76/55] |
+%%Q: 152
++mp+ [B,2B2-] +mf+ [^F,-D-B] +mp+ [F,D^F] [D,-B] [D,^A] |
+[^C,2^A2-] +mf+ [G,-A,-E-A] +p+ [G,A,E=A] +mf+ [G,-A,-E-^c] [G,A,Ee] |
+[D,2g2-] +f+ [^F,-A,-D-g] +mf+ [F,A,D^f] +mp+ [F,-A,-D-^c] [F,A,Dd] |
+[A,2^f2-] [A,-^C-G-f] [A,CGe] [A,-E-G-B] [A,EG^c] |
+[D,2e2-] +mf+ [A,-D-^F-e] +mp+ [A,DFd] [A,-D-F-^c] +p+ [A,DFB] |
+[^C,2B2-] +mf+ [A,-E-G-B] +p+ [A,EGA] +mp+ [A,-E-G-^c] +mf+ [A,EGe] |
++mp+ [D,2g2-] +mf+ [A,-D-^F-g] +mp+ [A,DF^f] [A,-D-F-^c] +p+ [A,DFd] |
+% Bar 40 (0:48)
++mp+ [G,2^f2-] +mf+ [G,-B,-E-f] +mp+ [G,B,Ee] [G,-B,-E-B] +p+ [G,B,E^c] |
++mp+ [^F,2^A2-] +mf+ [F,-^C-E-A] +mp+ [F,CE^c] [F,-C-E-G] +p+ [F,CEc] |
+[^F,2^F2-] +mf+ [F,-^C-E-F] +mp+ [F,CE^A] [F,-^A,-E-^c] +mf+ [F,A,Ee] |
+[B,2g2-] [^F,-B,-D-g] +mp+ [F,B,D^f] [F,-B,-D-^c] [F,B,Dd] |
+[A,2^f2-] [^F,-A,-E-f] +p+ [F,A,Ee] [F,-^C-E-B] +mp+ [F,CE^c] |
+[D,2e2-] [A,-D-^F-e] +p+ [A,DFd] [A,-D-F-^c] +pp+ [A,DFB] |
++mp+ [^C,2B2-] +mf+ [A,-E-G-B] +p+ [A,EGA] +mf+ [A,-E-G-^c] [A,EGe] |
+[D,2g2-] [A,-D-^F-g] +mp+ [A,DF^f] [A,-D-F-^c] [A,DFd] |
++f+ [G,2^f2-] +mf+ [G,-B,-E-f] [G,B,Ee] +fff+ f e |
++f+ [^F,-d] [F,^c] +fff+ [F,-E-c'] +mf+ [F,Eb] +f+ [^A,-^a] [A,=a] |
+% Bar 50 (1:00)
+[B,-^g] +mf+ [B,=g] +f+ [^F,-D-^f] +mp+ [F,D^c] [F,-D-d] [F,DB] |
+[^C,2^A2] [^F,2^C2E2] +f+ [F,2C2E2a2] |
++mp+ [^A,-^g] +p+ [A,=g] +mf+ [^F,-^C-E-^f] +p+ [F,CE^c] +mp+ [F,-C-E-e] [F,CEd] |
+[B,2B2] +mf+ [^F,2B,2D2] +f+ [F,2B,2D2a2] |
++mp+ [B,-^g] [B,=g] +mf+ [^F,-B,-D-f] +mp+ [F,B,D^f] +mf+ [F,-B,-D-b] [F,B,Dd] |
++mp+ [B,2d2] +f+ [^G,2B,2D2f2] [G,2B,2D2d2-] |
++mp+ [B,2d2] +f+ [G,2B,2E2e2] +ff+ [G,2B,2E2^c2] |
+[B,-c'] +mp+ [B,b] +f+ [^F,-^A,-E-^a] +mp+ [F,A,E=a] [F,-A,-E-^g] [F,A,E=g] |
+[B,-^f] [B,=f] +mf+ [^F,-B,-D-e] +mp+ [F,B,Dd] [F,-B,-D-^c] [F,B,DB] |
++p+ [^C,2^A2-] +mf+ [^F,2^A,2E2A2] [F,2A,2E2g2] |
+% Bar 60 (1:11)
++mp+ [^A,-^f] [A,g] +f+ [^F,-^C-E-f] +mp+ [F,CE^c] +mf+ [F,-C-E-e] [F,CEd] |
++mp+ [B,2B2-] +ff+ [^F,2B,2D2B2] [F,2B,2D2^f2] |
++fff+ [D,-^f] [D,^c] [^F,-B,-D-d] +f+ [F,B,D^a] [F,-B,-D-b] +mf+ [F,B,Df] |
++f+ [E,-a] [E,g] +ff+ [G,-^C-B] +f+ [G,C^c] e g |
++mf+ [^F,-g] [F,-^f] [F,-B,-D-B] [F,-B,Dd] +f+ [F,-^A,-E-^c] +p+ [F,A,E^F] |
++mp+ [B,2B2-] +mf+ [^F,-D-B] +mp+ [F,D^F] [D,-B] [D,^A] |
+[^C,2^A2-] +mf+ [G,-A,-E-A] +mp+ [G,A,E=A] +mf+ [G,-A,-E-^c] [G,A,Ee] |
+[D,2g2-] +f+ [^F,-A,-D-g] +mp+ [F,A,D^f] [F,-A,-D-^c] [F,A,Dd] |
+[A,2^f2-] +mf+ [A,-^C-G-f] +mp+ [A,CGe] [A,-E-G-B] +p+ [A,EG^c] |
++mp+ [D,2e2-] [A,-D-^F-e] [A,DFd] [A,-D-F-^c] +p+ [A,DFB] |
+% Bar 70 (1:23)
++mp+ [^C,2B2-] +mf+ [A,-E-G-B] +mp+ [A,EGA] +mf+ [A,-E-G-^c] [A,EGe] |
++mp+ [D,2g2-] +mf+ [A,-D-^F-g] +mp+ [A,DF^f] [A,-D-F-^c] [A,DFd] |
+[G,2^f2-] +mf+ [G,-B,-E-f] +mp+ [G,B,Ee] [G,-B,-E-B] +p+ [G,B,E^c] |
++mp+ [^F,2^A2-] +mf+ [F,-^C-E-A] +mp+ [F,CE^c] [F,-C-E-G] [F,CEc] |
+[^F,2^F2-] +mf+ [F,-^C-E-F] +mp+ [F,CE^A] [F,-^A,-E-^c] +mf+ [F,A,Ee] |
+[B,2g2-] [^F,-B,-D-g] +mp+ [F,B,D^f] [F,-B,-D-^c] [F,B,Dd] |
+[A,2^f2-] [^F,-A,-E-f] +p+ [F,A,Ee] [F,-^C-E-B] +mp+ [F,CE^c] |
+[D,2e2-] [A,-D-^F-e] +p+ [A,DFd] [A,-D-F-^c] [A,DFB] |
++mp+ [^C,2B2-] +mf+ [A,-E-G-B] +mp+ [A,EGA] +mf+ [A,-E-G-^c] +mp+ [A,EGe] |
++mf+ [D,2g2-] [A,-D-^F-g] +mp+ [A,DF^f] [A,-D-F-^c] [A,DFd] |
+% Bar 80 (1:35)
++f+ [G,2^f2-] +mp+ [G,-B,-E-f] +mf+ [G,B,Ee] +fff+ f e |
++f+ [^F,-d] +mf+ [F,^c] +ff+ [F,-E-c'] +f+ [F,Eb] [^A,-^a] [A,=a] |
+[B,-^g] +mf+ [B,=g] +ff+ [^F,-D-^f] +mp+ [F,D^c] [F,-D-d] +p+ [F,DB] |
+[^C,2^A2] +mp+ [^F,2^C2E2] +f+ [F,2C2E2a2] |
++mp+ [^A,-^g] [A,=g] +mf+ [^F,-^C-E-^f] +p+ [F,CE^c] +mp+ [F,-C-E-e] [F,CEd] |
++p+ [B,2B2] +mf+ [^F,2B,2D2] +f+ [F,2B,2D2a2] |
++mp+ [B,-^g] [B,=g] +mf+ [^F,-B,-D-f] [F,B,D^f] [F,-B,-D-b] [F,B,Dd] |
+[B,2d2] [^G,2B,2D2f2] +f+ [G,2B,2D2d2-] |
++mp+ [B,2d2] +f+ [G,2B,2E2e2] [G,2B,2E2^c2] |
+[B,-c'] +mf+ [B,b] [^F,-^A,-E-^a] +mp+ [F,A,E=a] [F,-A,-E-^g] [F,A,E=g] |
+% Bar 90 (1:47)
+[B,-^f] [B,=f] +mf+ [^F,-B,-D-e] +mp+ [F,B,Dd] [F,-B,-D-^c] [F,B,DB] |
++p+ [^C,2^A2-] +mf+ [^F,2^A,2E2A2] +f+ [F,2A,2E2g2] |
++mp+ [^A,-^f] [A,g] +mf+ [^F,-^C-E-f] +mp+ [F,CE^c] +mf+ [F,-C-E-e] [F,CEd] |
+[B,2B2-] +ff+ [^F,2B,2D2B2] [F,2B,2D2^f2] |
++fff+ [D,-^f] +ff+ [D,^c] [^F,-B,-D-d] +mf+ [F,B,D^a] +ff+ [F,-B,-D-b] +mf+ [F,B,Df] |
++f+ [E,-a] +mf+ [E,g] +ff+ [G,-^C-B] +f+ [G,C^c] e g |
++mf+ [^F,-g] [F,-^f] +f+ [F,-B,-D-B] +mf+ [F,-B,Dd] +f+ [F,-^A,-E-^c] +p+ [F,A,E^F] |
++mp+ [B,2D2B2] +p+ B,2 ^F2 |
++f+ [B,-^d] +ff+ [B,e] [^F,-B,-^D-d] +mf+ [F,B,D^c] [F,-B,-D-d] +f+ [F,B,De] |
+[^A,2^g2-] [^F,2^C2E2g2] [F,2C2E2^f2] |
+% Bar 100 (1:59)
++mf+ [B,-^d] [B,e] +ff+ [^F,-B,-^D-d] +mf+ [F,B,D^c] +f+ [F,-B,-D-d] [F,B,De] |
+[^A,2^g2-] +ff+ [^F,2^C2E2g2] +f+ [F,2C2E2^f2] |
++mf+ [B,2^f2] +ff+ [^F,3/2-B,3/2-^D3/2-^d3/2] +mf+ [F,/B,/D/d/] +f+ [F,2B,2D2d2] |
++mf+ [^F,2^c2] +ff+ [F,3/2-^A,3/2-E3/2-e3/2] +mf+ [F,/A,/E/e/] +f+ [F,2A,2E2e2] |
++mf+ [B,2^d2] +f+ [^F,3/2-B,3/2-^D3/2-b3/2] +mf+ [F,/B,/D/b/] +f+ [F,2B,2D2b2] |
++mf+ [^F,2^a2] +ff+ [F,3/2-^A,3/2-E3/2-^c3/2] +mf+ [F,/A,/E/c/] +ff+ [F,2A,2E2e2] |
++mf+ [B,-^d] [B,e] +ff+ [^F,-B,-^D-d] +mp+ [F,B,D^c] +f+ [F,-B,-D-d] [F,B,De] |
+[^A,2^g2-] [^F,2^C2E2g2] [F,2C2E2^f2] |
++mf+ [B,-^d] [B,e] +ff+ [^F,-B,-^D-d] +mf+ [F,B,D^c] +f+ [F,-B,-D-d] [F,B,De] |
+[^A,2^g2-] [^F,2^C2E2g2] [F,2C2E2^f2] |
+% Bar 110 (2:11)
++mf+ [B,2^d2] +f+ [^F,3/2-B,3/2-^D3/2-b3/2] +mf+ [F,/B,/D/b/] +f+ [^G,2B,2D2b2] |
++mf+ [^C,2^a2] +ff+ [^A,3/2-^C3/2-^F3/2-^c3/2] +mf+ [A,/C/F/c/] +f+ [A,2C2F2c2] |
++mf+ [B,2B2] +ff+ [^G,3/2-^C3/2-F3/2-^g3/2] +f+ [G,/C/F/g/] [G,2C2F2g2] |
++mf+ [^F,2^f2] +ff+ [F,3/2-^C3/2-E3/2-^A3/2] +mf+ [F,/C/E/A/] +ff+ [F,2C2E2e2] |
++mf+ [B,-B^d] [B,^ce] +f+ [^F,-B,-^D-Bd] +mf+ [F,B,D^Fc] +f+ [F,-B,-D-Bd] [F,B,Dce] |
+[^A,2^A2-^g2-] [^F,2^C2E2A2g2] +mp+ [F,2C2E2A2^f2] |
+[B,-B^d] [B,^ce] +f+ [^F,-B,-^D-Bd] +mp+ [F,B,D^Fc] [F,-B,-D-Bd] [F,B,Dce] |
++mf+ [^A,2^A2-^g2-] [^F,2^C2E2A2g2] +mp+ [F,2C2E2A2^f2] |
+[B,2^d2^f2] +mf+ [^F,3/2-B,3/2-^D3/2-d3/2f3/2] +mp+ [F,/B,/D/d/f/] +mf+ [F,2B,2D2d2f2] |
++mp+ [^F,2^c2e2] +mf+ [F,3/2-^A,3/2-E3/2-c3/2e3/2] +mp+ [F,/A,/E/c/e/] +mf+ [F,2A,2E2c2e2] |
+% Bar 120 (2:23)
++mp+ [B,2B2^d2] +mf+ [^F,3/2-B,3/2-^D3/2-d3/2b3/2] +mp+ [F,/B,/D/d/b/] [F,2B,2D2d2b2] |
+[^F,2^c2^a2] +mf+ [F,3/2-^C3/2-E3/2-^A3/2c3/2] +mp+ [F,/C/E/A/c/] [F,2C2E2c2e2] |
++p+ [B,-Bd] +mp+ [B,^ce] +mf+ [^F,-B,-D-Bd] +p+ [F,B,D^Fc] +mp+ [F,-B,-D-Bd] [F,B,Dce] |
+[^A,2^A2-g2-] +mf+ [^F,2^C2E2A2g2] +mp+ [F,2C2E2A2^f2] |
+[B,-Bd] [B,^ce] +mf+ [^F,-B,-D-Bd] +mp+ [F,B,D^Fc] +mf+ [F,-B,-D-Bd] +mp+ [F,B,Dce] |
++mf+ [^A,2^A2-g2-] [^F,2^C2E2A2g2] +mp+ [F,2C2E2A2^f2] |
+[B,2d2^f2] +mf+ [^F,-B,-D-^Fe] [F,/-B,/-D/-] +mp+ [F,/B,/D/F/e/] [B,2B2d2] |
+[G,2B2d2] [^C,-F,-B,-F^c] [C,/-F,/-B,/-] +p+ [C,/F,/B,/F/-c/] +mp+ [C,2F,2B,2F2B2] |
+[^F,2^F2-^A2] +mf+ [^C,2F,2^A,2F2-^c2-] [C,2F,2A,2F2c2-] |
+[^F,2^F2^c2] +ff+ [F,2^A,2E2F2] [F,2A,2E2^f2-] |
+% Bar 130 (2:34)
++mf+ [B,-^f] +f+ [B,g] +fff+ [^F,-B,-D-f] +mf+ [F,B,D^c] +f+ [F,-B,-D-d] +mf+ [F,B,DB] |
+[^C,2^A2-] +ff+ [^F,2^A,2E2A2] [F,2A,2E2^f2-] |
++mf+ [^A,-^f] +fff+ [A,g] [^F,-^C-E-f] +mf+ [F,CE^c] +ff+ [F,-C-E-e] +f+ [F,CEd] |
+[B,2B2-] +fff+ [^F,2B,2D2B2] +ff+ [F,2B,2D2^f2-] |
++mf+ [B,-^f] +f+ [B,g] +fff+ [^F,-B,-D-=f] +ff+ [F,B,D^f] [F,-B,-D-b] [F,B,Dd] |
++f+ [B,2d2] +fff+ [^G,2B,2D2f2] [G,2B,2D2d2-] |
++mf+ [B,2d2] +ff+ [G,2B,2E2e2] [G,2B,2E2^c2-] |
++mf+ [B,-^c] [B,b] +ff+ [^F,-^C-E-^a] +mp+ [F,CEg] +mf+ [F,-^A,-E-^f] +p+ [F,A,Ec] |
++mp+ [B,-d] +mf+ [B,g] [^F,-B,-D-^f] +p+ [F,B,D^c] +mp+ [F,-B,-D-d] [F,B,DB] |
+[^C,2^A2-] +mf+ [^F,2^A,2E2A2] [F,2A,2E2^f2-] |
+% Bar 140 (2:46)
++p+ [^F,-^f] +mp+ [F,g] +mf+ [F,-^A,-E-f] +mp+ [F,A,E^c] +mf+ [F,-A,-E-e] [F,A,Ed] |
+[B,2B2-] +ff+ [^F,2B,2D2B2] +f+ [F,2B,2D2^f2-] |
++mf+ [D,-^f] +fff+ [D,f] [^F,-B,-D-^c] +f+ [F,B,Dd] [F,-B,-D-^a] [F,B,Db] |
+[E,-a] +mf+ [E,g] +fff+ [B,-^C-G-B] +mf+ [B,CG^c] +f+ d +ff+ e |
+[^F,-g] +f+ [F,-^f] +ff+ [F,-B,-D-B] +mf+ [F,-B,Dd] +ff+ [F,-^A,-E-^c] +p+ [F,A,E^F] |
++mp+ [B,2B2-] +mf+ [^F,-D-B] +p+ [F,D^F] +mp+ [D,-B] +p+ [D,^A] |
++mp+ [^C,2^A2-] +mf+ [G,-A,-E-A] +mp+ [G,A,E=A] +mf+ [G,-A,-E-^c] [G,A,Ee] |
+[D,2g2-] [^F,-A,-D-g] +mp+ [F,A,D^f] [F,-A,-D-^c] [F,A,Dd] |
+[A,2^f2-] +mf+ [A,-^C-G-f] +mp+ [A,CGe] [A,-E-G-B] +p+ [A,EG^c] |
++mp+ [D,2e2-] +mf+ [A,-D-^F-e] +mp+ [A,DFd] [A,-D-F-^c] +p+ [A,DFB] |
+% Bar 150 (2:58)
++mp+ [^C,2B2-] +mf+ [A,-E-G-B] +mp+ [A,EGA] [A,-E-G-^c] [A,EGe] |
+[D,2g2-] +mf+ [A,-D-^F-g] +mp+ [A,DF^f] [A,-D-F-^c] +p+ [A,DFd] |
++mp+ [G,2^f2-] +mf+ [G,-B,-E-f] +mp+ [G,B,Ee] [G,-B,-E-B] +p+ [G,B,E^c] |
++mp+ [^F,2^A2-] +mf+ [F,-^C-E-A] +mp+ [F,CE^c] [F,-C-E-G] [F,CEc] |
+[^F,2^F2-] +mf+ [F,-^C-E-F] +mp+ [F,CE^A] [F,-^A,-E-^c] +mf+ [F,A,Ee] |
+[B,2g2-] +f+ [^F,-B,-D-g] +mp+ [F,B,D^f] [F,-B,-D-^c] [F,B,Dd] |
+[A,2^f2-] [^F,-A,-E-f] +p+ [F,A,Ee] [F,-^C-E-B] +mp+ [F,CE^c] |
+[D,2e2-] [A,-D-^F-e] +p+ [A,DFd] [A,-D-F-^c] +pp+ [A,DFB] |
++mp+ [^C,2B2-] +mf+ [A,-E-G-B] +mp+ [A,EGA] +mf+ [A,-E-G-^c] [A,EGe] |
+[D,2g2-] [A,-D-^F-g] +mp+ [A,DF^f] [A,-D-F-^c] [A,DFd] |
+% Bar 160 (3:10)
+[G,2^f2-] +mf+ [G,-B,-E-f] +p+ [G,B,Ee] +fff+ f e |
++f+ [^F,-d] [F,^c] +ff+ [F,-E-c'] +mf+ [F,Eb] [^A,-^a] [A,=a] |
+[B,-^g] +mp+ [B,=g] +f+ [^F,-D-^f] +mp+ [F,D^c] [F,-D-d] [F,DB] |
++p+ [^C,2^A2] +mf+ [^F,2^C2E2] +f+ [F,2C2E2a2] |
++mp+ [^A,-^g] [A,=g] +mf+ [^F,-^C-E-^f] +p+ [F,CE^c] +mp+ [F,-C-E-e] +p+ [F,CEd] |
+[B,2B2] +mf+ [^F,2B,2D2] +f+ [F,2B,2D2a2] |
++mp+ [B,-^g] [B,=g] +mf+ [^F,-B,-D-f] +mp+ [F,B,D^f] +mf+ [F,-B,-D-b] [F,B,Dd] |
++p+ [B,2d2] +mf+ [^G,2B,2D2f2] +f+ [G,2B,2D2d2-] |
++p+ [B,2d2] +mf+ [G,2B,2E2e2] [G,2B,2E2^c2] |
++f+ [B,-c'] +mp+ [B,b] +mf+ [^F,-^A,-E-^a] +p+ [F,A,E=a] +mp+ [F,-A,-E-^g] +p+ [F,A,E=g] |
+% Bar 170 (3:22)
++mp+ [B,-^f] [B,=f] +mf+ [^F,-B,-D-e] +mp+ [F,B,Dd] [F,-B,-D-^c] [F,B,DB] |
+[^C,2^A2-] +mf+ [^F,2^A,2E2A2] +mp+ [F,2A,2E2g2] |
+[^A,-^f] [A,g] +f+ [^F,-^C-E-f] +mp+ [F,CE^c] +mf+ [F,-C-E-e] [F,CEd] |
+[B,2B2-] +ff+ [^F,2B,2D2B2] [F,2B,2D2^f2] |
++fff+ [D,-^f] +ff+ [D,^c] +fff+ [^F,-B,-D-d] +f+ [F,B,D^a] [F,-B,-D-b] [F,B,Df] |
+[E,-a] +mf+ [E,g] +f+ [G,-^C-B] +mf+ [G,C^c] e g |
++mp+ [^F,-g] +p+ [F,-^f] +mp+ [F,-B,-D-B] +p+ [F,-B,Dd] +mp+ [F,-^A,-E-^c] +pp+ [F,A,E^F] |
++p+ [B,2D2B2] +pp+ B,2 z2 |]
+
