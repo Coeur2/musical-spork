@@ -14,3 +14,17 @@ composer_op##_no.##.abc
 composer_pieceName_mvm#.abc
 ```
 
+## Needs work
+* *bazzini_the_dance_of_the_goblins.abc* - too many notes per second
+* *beethoven_appassionata_sonata_no23.abc* - possibly add more instruments
+* *chopin_waltz_no10.abc* - change instrument, add more
+* *liszt_elContrabanindista.abc* - add more instruments
+* *liszt_hung_rhapsody2.abc* - way too many notes, possibly delete actually
+* *monti_czardas.abc* - too short notes
+
+## Wish List
+* Finish Tchaikovsky Symphony no. 4
+* Add more of Tchaikovsky symphonies
+* Add more parts of Carnival Des Animaux, compile
+* Borodin's Prince Igor
+* 
