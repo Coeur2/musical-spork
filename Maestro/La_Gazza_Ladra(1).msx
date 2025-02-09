@@ -1,0 +1,160 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\La_Gazza_Ladra(1).mid</sourceFile>
+    <title>La Gazza Ladra(1)</title>
+    <composer/>
+    <transcriber/>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="0" name="Piccolafl��jt"/>
+        <track id="1" name="Tv��rfl��jt"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="1" name="Tv��rfl��jt"/>
+        <track id="2" name="Klarinett i B��� 1"/>
+        <track id="3" name="Klarinett i B��� 2"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="5" name="Altsaxofon 1">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="6" name="Altsaxofon 2">
+            <volumeAdjust>-32</volumeAdjust>
+        </track>
+        <track id="7" name="Tenorsaxofon">
+            <volumeAdjust>-32</volumeAdjust>
+        </track>
+        <track id="8" name="Barytonsaxofon">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="9" name="Kornett i B���1">
+            <volumeAdjust>-32</volumeAdjust>
+        </track>
+        <track id="10" name="Kornett i B���2">
+            <volumeAdjust>-32</volumeAdjust>
+        </track>
+        <track id="11" name="Trumpet i B��� 1">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="12" name="Trumpet i B��� 2">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="13" name="Trumpet i B��� 3">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="14" name="Horn i F">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="15" name="Althorn i E���">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="16" name="Trombon">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="17" name="Euphonium (diskantklav)">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="18" name="Tuba">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="4" name="Fagott"/>
+        <track id="5" name="Altsaxofon 1"/>
+        <track id="6" name="Altsaxofon 2"/>
+        <track id="10" name="Kornett i B���2"/>
+        <track id="11" name="Trumpet i B��� 1"/>
+    </part>
+    <part id="8">
+        <title>Basic Cowbell</title>
+        <instrument>Basic Cowbell</instrument>
+        <track id="19" name="Konsert-virveltrumma">
+            <drumsEnabled defaultEnabled="false">
+                <note id="40" isEnabled="true"/>
+            </drumsEnabled>
+        </track>
+    </part>
+    <part id="18">
+        <title>Basic Cowbell</title>
+        <instrument>Basic Cowbell</instrument>
+        <track id="19" name="Konsert-virveltrumma">
+            <drumsEnabled defaultEnabled="false">
+                <note id="38" isEnabled="true"/>
+            </drumsEnabled>
+        </track>
+    </part>
+    <part id="28">
+        <title>Basic Drum</title>
+        <instrument>Basic Drum</instrument>
+        <track id="19" name="Konsert-virveltrumma">
+            <volumeAdjust>97</volumeAdjust>
+            <drumMap>
+                <note id="26" lotroId="49"/>
+                <note id="27" lotroId="72"/>
+                <note id="28" lotroId="70"/>
+                <note id="31" lotroId="51"/>
+                <note id="32" lotroId="50"/>
+                <note id="33" lotroId="39"/>
+                <note id="35" lotroId="49"/>
+                <note id="36" lotroId="58"/>
+                <note id="37" lotroId="51"/>
+                <note id="38" lotroId="82"/>
+                <note id="39" lotroId="53"/>
+                <note id="40" lotroId="56"/>
+                <note id="41" lotroId="49"/>
+                <note id="42" lotroId="37"/>
+                <note id="43" lotroId="69"/>
+                <note id="44" lotroId="59"/>
+                <note id="45" lotroId="47"/>
+                <note id="46" lotroId="60"/>
+                <note id="47" lotroId="63"/>
+                <note id="48" lotroId="43"/>
+                <note id="49" lotroId="57"/>
+                <note id="50" lotroId="45"/>
+                <note id="51" lotroId="55"/>
+                <note id="52" lotroId="57"/>
+                <note id="53" lotroId="43"/>
+                <note id="54" lotroId="46"/>
+                <note id="55" lotroId="57"/>
+                <note id="56" lotroId="45"/>
+                <note id="57" lotroId="57"/>
+                <note id="58" lotroId="53"/>
+                <note id="59" lotroId="60"/>
+                <note id="60" lotroId="38"/>
+                <note id="61" lotroId="69"/>
+                <note id="62" lotroId="39"/>
+                <note id="63" lotroId="70"/>
+                <note id="64" lotroId="48"/>
+                <note id="65" lotroId="65"/>
+                <note id="66" lotroId="64"/>
+                <note id="67" lotroId="43"/>
+                <note id="68" lotroId="47"/>
+                <note id="69" lotroId="37"/>
+                <note id="70" lotroId="42"/>
+                <note id="73" lotroId="64"/>
+                <note id="74" lotroId="62"/>
+                <note id="75" lotroId="43"/>
+                <note id="76" lotroId="51"/>
+                <note id="77" lotroId="67"/>
+                <note id="78" lotroId="65"/>
+                <note id="79" lotroId="64"/>
+                <note id="80" lotroId="43"/>
+                <note id="81" lotroId="43"/>
+                <note id="82" lotroId="42"/>
+                <note id="83" lotroId="44"/>
+                <note id="85" lotroId="72"/>
+                <note id="86" lotroId="48"/>
+                <note id="87" lotroId="58"/>
+            </drumMap>
+        </track>
+    </part>
+</song>

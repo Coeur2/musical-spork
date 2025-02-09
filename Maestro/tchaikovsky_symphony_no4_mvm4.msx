@@ -1,0 +1,75 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchsym4d.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\tchaikovsky_symphony_no4_mvm4.abc</exportFile>
+    <title>Symphony No. 4, Mvm 4</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <firstExportTime>2025/02/08 01:00:10</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true" tripletTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="19" name="Cello"/>
+        <track id="20" name="Bass"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="3" name="Piccolo">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+        <track id="4" name="Flute">
+            <volumeAdjust>-32</volumeAdjust>
+        </track>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="6" name="Clarinet">
+            <section>
+                <startBar>83.6</startBar>
+                <endBar>91.2</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>186.7</startBar>
+                <endBar>191.9</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="8" name="Horn I,II"/>
+        <track id="9" name="Horn III,IV"/>
+        <track id="11" name="Trombone"/>
+        <track id="12" name="Bass Trombone"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="7" name="Bassoon"/>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="16" name="Violin I"/>
+        <track id="17" name="Violin II"/>
+        <track id="18" name="Viola"/>
+    </part>
+</song>
