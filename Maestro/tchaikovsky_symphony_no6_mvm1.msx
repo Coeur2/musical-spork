@@ -1,0 +1,448 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchai_symph_no6\tch_sy6a.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\tchaikovsky_symphony_no6_mvm1.abc</exportFile>
+    <title>Symphony No. 6 Mvm. 1</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <firstExportTime>2025/03/07 02:39:58</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <tuneSection>
+        <startBar>303.48</startBar>
+        <endBar>303.58</endBar>
+        <seminoteStep>0</seminoteStep>
+        <tempoChange>2</tempoChange>
+        <tempoAccelerando>0</tempoAccelerando>
+        <fade>0</fade>
+        <dialogLine>0</dialogLine>
+    </tuneSection>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="11" name="Violas">
+            <section>
+                <startBar>164.0</startBar>
+                <endBar>164.7</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>168.0</startBar>
+                <endBar>170.2</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>189.0</startBar>
+                <endBar>197.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>243.0</startBar>
+                <endBar>245.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>3</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>261.0</startBar>
+                <endBar>269.5</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>4</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="12" name="Cellos">
+            <section>
+                <startBar>262.0</startBar>
+                <endBar>266.5</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="13" name="Contrabass">
+            <section>
+                <startBar>164.0</startBar>
+                <endBar>165.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>168.0</startBar>
+                <endBar>170.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>260.0</startBar>
+                <endBar>270.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Flutes"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="2" name="Oboes"/>
+        <track id="3" name="Clarinets">
+            <section>
+                <startBar>267.9</startBar>
+                <endBar>268.9</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="7" name="Trombones"/>
+        <track id="8"/>
+        <track id="9" name="Tubas">
+            <section>
+                <startBar>164.0</startBar>
+                <endBar>165.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="4" name="Bassoons">
+            <volumeAdjust>48</volumeAdjust>
+        </track>
+        <track id="5" name="Horns">
+            <section>
+                <startBar>164.0</startBar>
+                <endBar>165.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>196.0</startBar>
+                <endBar>198.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="6" name="Trumpets">
+            <section>
+                <startBar>196.0</startBar>
+                <endBar>198.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="11" name="Violas"/>
+        <track id="15">
+            <section>
+                <startBar>161.0</startBar>
+                <endBar>171.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>196.7</startBar>
+                <endBar>197.3</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>267.9</startBar>
+                <endBar>268.9</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="16" name="Pizz"/>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="11" name="Violas">
+            <volumeAdjust>48</volumeAdjust>
+            <section>
+                <startBar>189.0</startBar>
+                <endBar>198.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>239.0</startBar>
+                <endBar>248.5</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>262.0</startBar>
+                <endBar>270.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="12" name="Cellos">
+            <section>
+                <startBar>164.0</startBar>
+                <endBar>171.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>189.0</startBar>
+                <endBar>198.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>266.0</startBar>
+                <endBar>270.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="13" name="Contrabass">
+            <volumeAdjust>-48</volumeAdjust>
+            <section>
+                <startBar>164.0</startBar>
+                <endBar>171.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>259.0</startBar>
+                <endBar>270.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="14" name="Violins">
+            <section>
+                <startBar>161.0</startBar>
+                <endBar>171.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>189.0</startBar>
+                <endBar>198.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>239.0</startBar>
+                <endBar>248.5</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>259.0</startBar>
+                <endBar>270.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>3</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="15">
+            <section>
+                <startBar>161.0</startBar>
+                <endBar>171.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>189.0</startBar>
+                <endBar>198.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>239.0</startBar>
+                <endBar>248.5</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>2</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>266.0</startBar>
+                <endBar>270.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>3</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+</song>

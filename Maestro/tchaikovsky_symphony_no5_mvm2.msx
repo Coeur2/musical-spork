@@ -1,0 +1,59 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchai_symph5\pits5e-2.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\tchaikovsky_symphony_no5_mvm2.abc</exportFile>
+    <title>Symphony No. 5 Mvm. 2</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <firstExportTime>2025/03/07 00:59:22</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="14" name="Cellos"/>
+        <track id="15" name="Contrabass"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Flutes"/>
+        <track id="5" name="French Horn I &amp; III">
+            <transpose>12</transpose>
+        </track>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="2" name="Oboes"/>
+        <track id="3" name="Clarinets"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="7" name="Trumpets"/>
+        <track id="8" name="Trombones"/>
+        <track id="9" name="Bass Trombone"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="4" name="Bassoons"/>
+        <track id="5" name="French Horn I &amp; III"/>
+        <track id="6" name="French Horn II &amp; IV"/>
+        <track id="15" name="Contrabass">
+            <volumeAdjust>-48</volumeAdjust>
+        </track>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="11" name="1st Violins"/>
+        <track id="12" name="2nd Violins"/>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="13" name="Violas"/>
+    </part>
+</song>

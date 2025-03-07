@@ -1,0 +1,78 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\3mephis.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\Liszt_Faust.abc</exportFile>
+    <title>Faust</title>
+    <composer>Franz Liszt</composer>
+    <transcriber/>
+    <firstExportTime>2025/02/28 01:56:36</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="4" name="R.425"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="11" name="Peter"/>
+        <track id="12" name="Parkanyi"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="13"/>
+        <track id="14" name="parkanyi@icbank.hu"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="6" name="after Goethe)"/>
+        <track id="7"/>
+        <track id="8" name="3. Mephistopheles"/>
+        <track id="9"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="15"/>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="1" name="Liszt"/>
+    </part>
+    <part id="19">
+        <title>Lonely Mountain Fiddle</title>
+        <instrument>Lonely Mountain Fiddle</instrument>
+        <track id="2" name="Ferenc:">
+            <volumeAdjust>125</volumeAdjust>
+            <section>
+                <startBar>149.0</startBar>
+                <endBar>156.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+            <section>
+                <startBar>1019.0</startBar>
+                <endBar>1021.5</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>1</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="3" name="Faust Symphony">
+            <volumeAdjust>122</volumeAdjust>
+        </track>
+    </part>
+</song>

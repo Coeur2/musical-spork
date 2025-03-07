@@ -1,0 +1,59 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchai_symph_no1\3_scherz.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\tchaikovsky_symphony_no1_mvm3.abc</exportFile>
+    <title>Symphony No. 1, Mvm. 3</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <firstExportTime>2025/03/05 01:08:39</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true" timeSignature="3/8"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="13" name="Violoncello"/>
+        <track id="14" name="Double Bass"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Piccolo"/>
+        <track id="2" name="2 Flutes"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="3" name="2 Oboes"/>
+        <track id="4" name="2 Clarinets in Bb"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="6" name="Horn in F 1&amp;2"/>
+        <track id="7" name="Horns in F 3&amp;4"/>
+        <track id="8" name="2 Trumpets in C"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="5" name="Bassoons"/>
+        <track id="6" name="Horn in F 1&amp;2"/>
+        <track id="8" name="2 Trumpets in C"/>
+    </part>
+    <part id="9">
+        <title>Lonely Mountain Fiddle</title>
+        <instrument>Lonely Mountain Fiddle</instrument>
+        <track id="10" name="Violin I"/>
+        <track id="11" name="Violin II"/>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="11" name="Violin II">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+        <track id="12" name="Viola">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+    </part>
+</song>

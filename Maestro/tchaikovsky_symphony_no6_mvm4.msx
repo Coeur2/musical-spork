@@ -1,0 +1,121 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchai_symph_no6\tch_sy6d.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\tchaikovsky_symphony_no6_mvm4.abc</exportFile>
+    <title>Symphony No. 6 Mvm. 4</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <firstExportTime>2025/03/07 03:26:39</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <tuneSection>
+        <startBar>137.14</startBar>
+        <endBar>137.23</endBar>
+        <seminoteStep>0</seminoteStep>
+        <tempoChange>2</tempoChange>
+        <tempoAccelerando>0</tempoAccelerando>
+        <fade>0</fade>
+        <dialogLine>0</dialogLine>
+    </tuneSection>
+    <tuneSection>
+        <startBar>146.83</startBar>
+        <endBar>147.0</endBar>
+        <seminoteStep>0</seminoteStep>
+        <tempoChange>2</tempoChange>
+        <tempoAccelerando>0</tempoAccelerando>
+        <fade>0</fade>
+        <dialogLine>1</dialogLine>
+    </tuneSection>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="14" name="Cello"/>
+        <track id="15" name="Contrabass"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Flutes"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="2" name="Oboes"/>
+        <track id="3" name="Clarinets"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="7" name="Trombone 1"/>
+        <track id="8" name="Trombone 2"/>
+        <track id="9" name="Tubas"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="4" name="Bassoons"/>
+        <track id="5" name="Horns"/>
+        <track id="6" name="Trumpets"/>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="11" name="Violin 1">
+            <section>
+                <startBar>116.0</startBar>
+                <endBar>126.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="12" name="Violin 2">
+            <section>
+                <startBar>124.0</startBar>
+                <endBar>126.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="13" name="Viola"/>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="13" name="Viola">
+            <section>
+                <startBar>116.0</startBar>
+                <endBar>126.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+        <track id="14" name="Cello">
+            <section>
+                <startBar>116.0</startBar>
+                <endBar>126.0</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
+</song>

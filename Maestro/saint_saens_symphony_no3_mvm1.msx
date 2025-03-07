@@ -1,0 +1,61 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\organ_symphony_(c)pollen.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\saint_saens_symphony_no3_mvm1.abc</exportFile>
+    <title>Symphony No. 3 Mvm 1</title>
+    <composer>Camille Saint-Saens</composer>
+    <transcriber/>
+    <firstExportTime>2025/02/25 01:42:07</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="21"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Theme from"/>
+        <track id="2" name="ORGAN SYMPHONY"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="3" name="by C. Saint-Saens"/>
+        <track id="4" name="arr. G. Pollen"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="6"/>
+        <track id="7"/>
+        <track id="8" name="gpollen@telinco.co.uk"/>
+        <track id="9"/>
+        <track id="10"/>
+        <track id="11" name="stick with it - as it"/>
+        <track id="12" name="sounds great"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="5" name="(c) G.Pollen PRS/MCPS"/>
+        <track id="6"/>
+        <track id="7"/>
+        <track id="8" name="gpollen@telinco.co.uk"/>
+        <track id="9"/>
+    </part>
+    <part id="17">
+        <title>Basic Bagpipe</title>
+        <instrument>Basic Bagpipe</instrument>
+        <track id="14"/>
+        <track id="15"/>
+    </part>
+    <part id="9">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="17"/>
+        <track id="18"/>
+        <track id="19"/>
+    </part>
+</song>

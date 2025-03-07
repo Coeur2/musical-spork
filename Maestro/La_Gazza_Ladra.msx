@@ -1,11 +1,30 @@
 <?xml version="1.1" encoding="UTF-8" standalone="no"?>
 <song fileVersion="3.4.3.300" maestroVersion="3.4.3">
     <sourceFile>C:\Users\nerdp\Downloads\La_Gazza_Ladra(1).mid</sourceFile>
-    <title>La Gazza Ladra(1)</title>
-    <composer/>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\Rossini_La_Gazza_Ladra.abc</exportFile>
+    <title>La Gazza Larda</title>
+    <composer>Gioacchino Roccini</composer>
     <transcriber/>
+    <firstExportTime>2025/02/28 02:02:03</firstExportTime>
     <importSettings useOldVelocities="false"/>
     <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="8" name="Barytonsaxofon">
+            <section>
+                <startBar>42.9</startBar>
+                <endBar>43.1</endBar>
+                <octaveStep>0</octaveStep>
+                <volumeStep>0</volumeStep>
+                <silence>true</silence>
+                <legato>false</legato>
+                <fade>0</fade>
+                <dialogLine>0</dialogLine>
+                <resetVelocities>false</resetVelocities>
+            </section>
+        </track>
+    </part>
     <part id="4">
         <title>Basic Flute</title>
         <instrument>Basic Flute</instrument>
@@ -71,28 +90,11 @@
         <track id="4" name="Fagott"/>
         <track id="5" name="Altsaxofon 1"/>
         <track id="6" name="Altsaxofon 2"/>
+        <track id="9" name="Kornett i B���1"/>
         <track id="10" name="Kornett i B���2"/>
         <track id="11" name="Trumpet i B��� 1"/>
     </part>
     <part id="8">
-        <title>Basic Cowbell</title>
-        <instrument>Basic Cowbell</instrument>
-        <track id="19" name="Konsert-virveltrumma">
-            <drumsEnabled defaultEnabled="false">
-                <note id="40" isEnabled="true"/>
-            </drumsEnabled>
-        </track>
-    </part>
-    <part id="18">
-        <title>Basic Cowbell</title>
-        <instrument>Basic Cowbell</instrument>
-        <track id="19" name="Konsert-virveltrumma">
-            <drumsEnabled defaultEnabled="false">
-                <note id="38" isEnabled="true"/>
-            </drumsEnabled>
-        </track>
-    </part>
-    <part id="28">
         <title>Basic Drum</title>
         <instrument>Basic Drum</instrument>
         <track id="19" name="Konsert-virveltrumma">
@@ -107,7 +109,7 @@
                 <note id="35" lotroId="49"/>
                 <note id="36" lotroId="58"/>
                 <note id="37" lotroId="51"/>
-                <note id="38" lotroId="82"/>
+                <note id="38" lotroId="58"/>
                 <note id="39" lotroId="53"/>
                 <note id="40" lotroId="56"/>
                 <note id="41" lotroId="49"/>
@@ -155,6 +157,16 @@
                 <note id="86" lotroId="48"/>
                 <note id="87" lotroId="58"/>
             </drumMap>
+        </track>
+    </part>
+    <part id="18">
+        <title>Basic Cowbell</title>
+        <instrument>Basic Cowbell</instrument>
+        <track id="19" name="Konsert-virveltrumma">
+            <volumeAdjust>-96</volumeAdjust>
+            <drumsEnabled defaultEnabled="false">
+                <note id="40" isEnabled="true"/>
+            </drumsEnabled>
         </track>
     </part>
 </song>

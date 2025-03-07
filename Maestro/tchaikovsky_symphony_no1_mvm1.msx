@@ -1,0 +1,62 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchai_symph_no1\andante_.mid</sourceFile>
+    <exportFile>C:\Users\nerdp\Documents\The Lord of the Rings Online\Music\tchaikovsky_symphony_no1_mvm1.abc</exportFile>
+    <title>Symphony No. 1, Mvm. 1</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <firstExportTime>2025/03/05 00:56:08</firstExportTime>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="15" name="Violoncello"/>
+        <track id="16" name="Double Bass"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Piccolo"/>
+        <track id="2" name="Flutes"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="3" name="Oboes"/>
+        <track id="4" name="Clarinets in Bb"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="6" name="Horn in F"/>
+        <track id="7" name="Horns in F"/>
+        <track id="8" name="Trumpet in C"/>
+        <track id="9" name="Trombone"/>
+        <track id="10" name="Tuba"/>
+        <track id="11" name="Timpani"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="5" name="Bassoons"/>
+        <track id="6" name="Horn in F"/>
+        <track id="7" name="Horns in F"/>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="12" name="Violin I"/>
+        <track id="13" name="Violin II"/>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="13" name="Violin II">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+        <track id="14" name="Viola">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+    </part>
+</song>

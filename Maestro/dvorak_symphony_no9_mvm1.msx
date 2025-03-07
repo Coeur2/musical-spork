@@ -1,0 +1,52 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\newWorld\symphony_9_1_(c)cvikl.mid</sourceFile>
+    <title>Symphony No. 9, Mvm. 1</title>
+    <composer>Dvorak</composer>
+    <transcriber/>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true" timeSignature="4/8"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="16" name="Violoncelli"/>
+        <track id="17" name="Contrabassi"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Flauti"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="2" name="Oboi"/>
+        <track id="3" name="Clarinetti"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="5" name="Corni in E"/>
+        <track id="6" name="Corni  in C"/>
+        <track id="7" name="Corni in E"/>
+        <track id="8" name="Trombe"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="4" name="Fagotti"/>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="13" name="Violini I."/>
+        <track id="14" name="Violini II."/>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="13" name="Violini I."/>
+        <track id="14" name="Violini II."/>
+        <track id="15" name="Viole"/>
+    </part>
+</song>

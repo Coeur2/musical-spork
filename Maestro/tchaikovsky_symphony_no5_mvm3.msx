@@ -1,0 +1,62 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<song fileVersion="3.4.3.300" maestroVersion="3.4.3">
+    <sourceFile>C:\Users\nerdp\Downloads\tchai_symph5\pits5e-3.mid</sourceFile>
+    <title>Symphony No. 5 Mvm. 3</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <transcriber/>
+    <importSettings useOldVelocities="false"/>
+    <exportSettings combinePriorities="false" mixTiming="true"/>
+    <part id="3">
+        <title>Basic Theorbo</title>
+        <instrument>Basic Theorbo</instrument>
+        <track id="15" name="Celli"/>
+        <track id="16" name="Contrabass"/>
+    </part>
+    <part id="4">
+        <title>Basic Flute</title>
+        <instrument>Basic Flute</instrument>
+        <track id="1" name="Flute"/>
+    </part>
+    <part id="5">
+        <title>Basic Clarinet</title>
+        <instrument>Basic Clarinet</instrument>
+        <track id="2" name="Oboe"/>
+        <track id="3" name="Clarinet"/>
+    </part>
+    <part id="6">
+        <title>Basic Horn</title>
+        <instrument>Basic Horn</instrument>
+        <track id="6" name="French Horn II &amp; IV"/>
+        <track id="7" name="Trumpet"/>
+    </part>
+    <part id="7">
+        <title>Basic Bassoon</title>
+        <instrument>Basic Bassoon</instrument>
+        <track id="4" name="Bassoon"/>
+        <track id="5" name="French Horn I &amp; III"/>
+        <track id="6" name="French Horn II &amp; IV"/>
+    </part>
+    <part id="9">
+        <title>Traveller's Trusty Fiddle</title>
+        <instrument>Traveller's Trusty Fiddle</instrument>
+        <track id="12" name="1st Violins">
+            <volumeAdjust>-16</volumeAdjust>
+        </track>
+        <track id="13" name="2nd Violins">
+            <volumeAdjust>-32</volumeAdjust>
+        </track>
+    </part>
+    <part id="19">
+        <title>Basic Fiddle</title>
+        <instrument>Basic Fiddle</instrument>
+        <track id="12" name="1st Violins">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+        <track id="13" name="2nd Violins">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+        <track id="14" name="Violas">
+            <volumeAdjust>32</volumeAdjust>
+        </track>
+    </part>
+</song>
